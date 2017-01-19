@@ -20,6 +20,8 @@
 \usepackage{diagbox}
 \usepackage{float}
 \usepackage[table]{xcolor}
+\usepackage{multirow}
+\usepackage{longtable}
 %\usepackage{titlesec}
 
 \setcounter{secnumdepth}{5}
@@ -367,7 +369,6 @@ Humans-Self Driving Cars & 2013 D. Howard - `Public Perceptions of Self-Driving 
 & 2014 M. Carlson - `Identifying Factors That Influence Trust in Automated Cars and Medical Diagnosis Systems' & Most people tend to prioritize safety, accuracy, and failure rates when trusting an autonomous system\\
 \hline
 \end{tabular}
-\end{center}
 
 \begin{tabular}{ |p{2cm}|p{4cm}|p{6cm}|  }
 \hline
@@ -399,7 +400,6 @@ Multi-Agent Systems & 2008 C. Hang et al. - `An Adaptive Probabilistic Trust Mod
  & 2004 S. Ramchurn, D. Huynh, N. Jennings - `Trust in Multi-Agent Systems' & Agents have limitations in their capabilities, so they have a high degree of uncertainty when dealing with other agents\\
 \hline
 \end{tabular}
-\end{center}
 
 \begin{tabular}{ |p{2cm}|p{4cm}|p{6cm}|  }
 \hline
@@ -430,7 +430,208 @@ Social Networks & 2006 F. Walter et al. - `Impact of Trust on the Performance of
 P2P Networks & Y. Wang, J. Vassileva - `Bayesian Network Trust Model in Peer-to-Peer Networks' & Proposes a Bayesian trust model that could be used in P2P networks\\
 \hline
 \end{tabular}
+
 \end{center}
+
+
+%\begin{table}[]
+%\centering
+%\caption{My caption}
+%\label{my-label}
+\begin{longtable}{|c|c|p{5cm}|p{3cm}|p{1cm}|}
+\hline
+\multicolumn{5}{|c|}{List of Studies}                                                                                               \\ \hline
+Category                        & Study & \multicolumn{1}{c|}{Summary}    & \multicolumn{1}{c|}{Technology} & \multicolumn{1}{c|}{} \\ \hline
+\multirow{8}{*}{Human - Robots} 
+	& \cite{stormont2008analyzing}    
+	&  Confidence plays an important role as well as trust, and The unpredictability of the robot affects trust  
+	& Tech                            
+	&                       
+	\\ \cline{2-5} 
+	& \cite{esfandiari2001agents}     
+	& Mathematical definition for trust, where trust is a variable T. Trust acquisition is the process or mechanism that allows the calculation and update of 'T'
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	&    
+	& 
+	&                                 
+	&
+	\\ \cline{2-5}
+	&    
+	& 
+	&                                 
+	&
+	\\ \cline{2-5} 
+	&    
+	& 
+	&                                 
+	&
+	\\ \cline{2-5} 
+	&    
+	& 
+	&                                 
+	&
+	\\ \cline{2-5} 
+	&    
+	& 
+	&                                 
+	&
+	\\ \cline{2-5} 
+	&    
+	& 
+	&                                 
+	&           
+	\\ \hline
+\multirow{5}{*}{Human SDC}      
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	& 7     
+	& test                            
+	&                                 
+	&                       
+	\\ \hline
+	
+	\multirow{2}{*}{Human-Autopilot Modes}    
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	& 7     
+	& test                            
+	&                                 
+	&                       
+	\\ \hline
+	
+	\multirow{3}{*}{Human-Agents (Software) } 
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5}
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	& 7     
+	& test                            
+	&                                 
+	&                       
+	\\ \hline
+	
+	\multirow{2}{*}{Information Security } 
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	& 7     
+	& test                            
+	&                                 
+	&                       
+	\\ \hline
+	
+	\multirow{3}{*}{Multi-Agent Systems }
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5}
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	& 7     
+	& test                            
+	&                                 
+	&                       
+	\\ \hline
+	\multirow{6}{*}{Security in Multi-Agent System}
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5}
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5}
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	& 7     
+	& test                            
+	&                                 
+	&                       
+	\\ \hline
+	
+	\multirow{1}{*}{Wireless Networks}
+	& 7     
+	& test                            
+	&                                 
+	&                       
+	\\ \hline
+	
+	\multirow{3}{*}{Social Networks}
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5}
+	& 5     
+	& text                            
+	&                                 
+	&                       
+	\\ \cline{2-5} 
+	& 7     
+	& test                            
+	&                                 
+	&                       
+	\\ \hline
+	
+	\multirow{1}{*}{P2P Networks}
+	& 7     
+	& test                            
+	&                                 
+	&                       
+	\\ \hline
+%\end{tabular}
+\end{longtable}
+
 \section{Open Problems, Future Directions and Concluding remarks}
 %\bibliographystyle{abbrv}
 \bibliography{ShervinTrustSurvey}
