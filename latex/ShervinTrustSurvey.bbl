@@ -112,7 +112,7 @@
   Society 53}, 5 (2011), 517--527.
 
 \bibitem{hang2008adaptive}
-{\sc Hang, C.-W., Wang, Y., and Singh, M.~P.}
+{\sc Hang, C.-W., ~, Y., and Singh, M.~P.}
 \newblock An adaptive probabilistic trust model and its evaluation.
 \newblock In {\em Proceedings of the 7th international joint conference on
   Autonomous agents and multiagent systems-Volume 3\/} (2008), International
@@ -163,6 +163,12 @@
 \newblock Autonomous trust construction in multi-agent systems—a graph theory
   methodology.
 \newblock {\em Advances in Engineering software 36}, 2 (2005), 59--66.
+
+\bibitem{josang1998modelling}
+{\sc J{\o}sang, A.}
+\newblock Modelling trust in information society.
+\newblock {\em Unpublished doctoral thesis, Department of Telematics, Norwegian
+  University of Science and Technology, Trondheim, Norway\/} (1998).
 
 \bibitem{kelly2003guidelines}
 {\sc Kelly, C.}
