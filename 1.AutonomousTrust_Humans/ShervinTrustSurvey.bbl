@@ -110,6 +110,12 @@
 \newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
   Society 50}, 2 (2008), 194--210.
 
+\bibitem{muir1987trust}
+{\sc Muir, B.~M.}
+\newblock Trust between humans and machines, and the design of decision aids.
+\newblock {\em International Journal of Man-Machine Studies 27}, 5-6 (1987),
+  527--539.
+
 \bibitem{parasuraman2004trust}
 {\sc Parasuraman, R., and Miller, C.~A.}
 \newblock Trust and etiquette in high-criticality automated systems.
@@ -118,6 +124,11 @@
 \bibitem{penders2013enhancing}
 {\sc Penders, J., Jones, P., Ranasinghe, A., and Nanayakara, T.}
 \newblock Enhancing trust and confidence in human robot interaction.
+
+\bibitem{decisionSupportTrust}
+{\sc Power, D.}
+\newblock {\em Types of Decision Support Systems}.
+\newblock gdrc.org, 2016.
 
 \bibitem{IndustrialRevolution}
 {\sc Robinson, M.}
