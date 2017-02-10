@@ -219,47 +219,6 @@ At the The European Organization for the Safety of Air Navigation (\cite{kelly20
 	\item Keeping the old technology in case failure
 \end{itemize}
 
-\subsubsection{Human-Agents(software agents)}
-With the fast-paced advancements in the field of IT, software agents have become very important assets that help humans with the variety of tasks such as automating repetitive computing tasks, or assisting users with simple things, such as managing their emails. There are also agents capable of doing complex tasks by themselves, without the aid of users. Examples of such agents include automatic shopping assistants, customer help desks, and web robots \cite{IntelligentAgent}. As these software agents grow over time, and their level of complexity increases, the issue of trust in software agents becomes one of many challenges of the use of these agents in sensitive areas. In the movie Resident Evil (2002), there is a powerful software agent called `The Red Queen', who is in charge of a huge underground facility. Due to a bio-hazard outbreak, the Red Queen murders all the employees in the facility in order to contain the virus. Although Resident Evil is a fictional movie, it conveys an interesting concept regarding human-agent trust. In real life, Agents may become so complex that they will be able to take control of facilities or weapon systems. Thus, the level of trust in them becomes a primary concern.
-
-In order to proceed, we need to define what an `agent' exactly is in this context, because it is a broad term. In one major study on software agents, Dr. Hyacinth Nwana defines Software agents as computer programs that have the capability to act on someone's behalf, and the ability to make various choices by themselves \cite{nwana1996software}. In their paper `Software Agents: An Overview', Dr. Nwana provides a detailed overview, and classification of software agents. He and his colleagues have identified three primary attributes that software agents should have: Autonomy, Learning, and cooperation. Autonomy in this case is described as ``The principle that agents can operate on their own without the need for human guidance''. `cooperation' refers to the concept of multiple agents communicating, and cooperating (I will explain this in detail in the later section dedicated to multi-agent systems). The last primary attribute, `learning'' is necessary because agents need to learn, and absorb external information in order to communicate, and respond to different situations.
-
-Dr. Nwana demonstrates that Agents also have attributes that are considered to be secondary. Attributes such as versatility (Engaging in a variety of tasks), helpful behavior, truthfulness, and the level of human-trust in them (which is what we are interested in).
-
-Dr. Nwana identifies seven types of agents in their research:
-\begin{enumerate}
-	\item Collaborative agents
-	\item Interface agents
-	\item Mobile agents
-	\item Information/Internet agents
-	\item Reactive agents
-	\item Hybrid agents
-	\item Smart Agents
-\end{enumerate}
-
-\begin{figure}
-	\centering
-		\includegraphics[width=\textwidth]{Figures/agents.png}
-	\caption{Dr. Nwana's three primary attributes of agents (Dept. of IECS, Feng Chua University, R.O.C., 2003.)}
-\end{figure}
-
-In a study at MIT, Mr. Timothy Bickmore and his partner, Ms. Justine Cassell proposed an interesting model to build trust between users and computer agents \cite{bickmore2001relational}. Provided that in humans, trust is established and maintained by various social interactions such as small talk, Mr. Bickmore and Ms. Cassell argued that the same mechanism can also be used for computer agents to establish trust between users, and them. As an experiment, a computer agent called `REA' was used to communicate with users by performing small talk. REA was able to track the user's movements, and detect their emotional response. The experiment in this study yielded interesting results. It was discovered that users communicating with the REA system using small talk, who also happened to have extrovert personalities, had developed more trust than other users who had more introvert personality traits.
-
-Mr. Bickmore's study indicates that the personality of users can potentially impact the level of trust between humans and agents. An older study conducted on the business school students in California State University yielded similar results. It was discovered that the level of self-esteem in human subjects plays a significant role in their performance and their interaction with a `human-like' computer: ``persons high in self-esteem generated more negative cognitive responses and made fewer errors when faced with human-like rather than machine-like feedback from a computer.'' \cite{resnik1985influence}
-
-A study at University College London titled `Supporting Trust in Virtual Communities' proposes a reputation based trust model designed for improving trust in virtual communities. This trust model is based on `sociological characteristics of trust', such as past experiences and reputation, or `word of mouth'. This proposed model enables agents to take another agent's opinions and recommendations into consideration: ``Our
-proposed model allows agents to decide which other
-agents’ opinions they trust more and allows agents to
-progressively tune their understanding of another agent’s
-subjective recommendations.''  Mr. Abdul-Rahman and his colleague, Mr. Hailes argue that although this trust model is designed for increasing trust between humans and virtual societies, this trust model can also be implemented for artificial autonomous agents, and `artificial societies' \cite{abdul2000supporting}.
-
-
-\subsubsection{Information Security}
-At the The Norwegian University of Science and Technology, Mr. Audun Josang published a paper that aimed to focus on the concept of `trust' in the context of information security, and shed some light on the complex nature of Trust. He also examined various types of trust, and trust driven relationships that are relevant in the context of information security, and distributed systems. Mr. Josang provides an interesting definition of trust by defining it from a malicious point of view. He explains that essentially, trust occurs due to the tendency of humans to avoid malicious behaviors of agents (Other people or software). This concept of trust and detecting malicious behavior is critical in computer security due to potential hackers or agents attempting to penetrate a system. He also explores trust and malicious behavior from a philosophical point of view. \cite{josang1998modelling}
-
-
-A 2006 study by Florina Almenarez et al. proposed a model for managing trust called `Pervasive Trust Management (PTM)' \cite{almenarez2006developing}. `Pervasive' devices are devices which are cumputing at all times. Apple Watches, smart-phones, PDAs etc. are examples of pervasive devices, which have microprocessors that compute things at all times in any network. The increased popularity of such devices produces the issue of trust between these devices communicating with each other, or providing a trusted, secure connection with any network. In this study, Ms. Almenarez, and her colleagues provide a statistical and mathematical trust model to tackle this problem.
-\newpage
 \section{Summary}
 
 %\begin{table}[]
@@ -354,35 +313,6 @@ Category                        & Study & \multicolumn{1}{c|}{Summary}    & \mul
 	& Autopilot personalization
 	\\ \hline
 	
-	\multirow{3}{*}{Human-Agents (Software) } 
-	& \cite{nwana1996software}
-	& Agents have secondary attributes that affect trust                    
-	& N/A (Meta-Analysis)                
-	& Overview of software agents and comparison            
-	\\ \cline{2-5}
-	& \cite{bickmore2001relational}
-	& Small talk builds trust, especially with extroverted personalities. The personality of users can impact the level of trust between humans and robots.
-	& Conversation agent REA
-	& Building trust using social dialogue
-	\\ \cline{2-5} 
-	& \cite{abdul2000supporting}
-	& Model designed to increase trust between agents and agents, and humans and agents                     
-	& Reputation-based trust model (Word of mouth)            
-	& Increasing trust in agents in virtual communities
-	\\ \hline
-	
-	\multirow{2}{*}{Information Security } 
-	& \cite{josang1998modelling}
-	& Trust occurs due to the tendency of humans to avoid malicious behaviors of agents                   
-	& N/A (Analysis)
-	& Trust in IT and malicious agents
-	\\ \cline{2-5} 
-	& \cite{almenarez2006developing}
-	& Mathematical trust model designed to tackle the issue of trust between agents, creating secure connections etc.    
-	& Mathematical Trust Evolution Model                       
-	& Trust between agents in Pervasive devices (such as smart-phones and PDAs)
-	\\ \hline
-
 %\end{tabular}
 \end{longtable}
 \end{center}
