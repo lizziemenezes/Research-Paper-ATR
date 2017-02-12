@@ -63,7 +63,7 @@
 %\bibliographystyle{plain}	% [1] Firstname Lastname. ...
 %\bibliographystyle{siam}	% [1] A. AUTHOR, Italicized Article Name, ...
 %\bibliographystyle{unsrt}	% [1] Firstname Lastname. Article name. ... [in order of reference]
-% This comment has no purpose. Testing from my mac for Lizzie 2
+
 %
 \frontmatter          % for the preliminaries
 %
@@ -191,20 +191,13 @@ A research conducted by Ms. Rosemarie Yagoda and her research partner, Mr. Dougl
 
 In a 2014 paper, Yue Wang and partners investigated the human-robot trust in the context of underwater semi-autonomous robots \cite{wang2014human}. In order for the underwater robot to have a good performance, the person who is operating the robot needs to trust its autonomous capabilities. This study proposed a trust model that mainly deals with recording the robot's past performance, the human performance, and the fault rates of humans and robots. The semi-autonomous robot `YSI EcoMapper AUV' was investigated in this study specifically. Furthermore, MATLAB simulations indicate the effectiveness of this trust model.
 
-In 1987, Bonnie Muir at the department of Psychology at University of Toronto, provided an analysis on the human-machine trust from a Psychological perspective \cite{muir1987trust}. This paper talks about ``Decision Support Systems'' (DSSs), and how trust is involved in the use of such systems. DSSs are computer programs that assist an individual, or an organization make decisions. These decisions include ranking important documents, buying and selling stocks quickly, choosing a target market, and many other important decisions \cite{decisionSupportTrust}. Since DSSs have a high impact on some critical decisions, the user's trust in such systems becomes a very important factor when designing  Decision Support Systems. Muir initially analyzed the Psychological trust models between humans, and used these models to provide a human-machine trust model. In this model, the concept of ``Trust calibration'' is introduced, in which, the user's have the responsibility of calibrating their trust based on the reliability of the DSS they are using. Muir suggests that when designing DSSs, there are certain factors and design goals that could contribute to better trust calibration. These factors are:
-\begin{enumerate}
-	\item \textbf{Aiming to improve the user's perception of trustworthiness of the DSS.}
-	This would require the user to completely understand how a DSS works, and become familiar with the predictability of the system's decisions. Muir suggest that this can be achieved by putting the user on a trial period of using a DSS, in order to improve the user's perception. A recommended technique is the use of a simulation environment so the user can freely explore the DSS without the fear of it making bad, or dangerous decisions.
-	\item \textbf{Modifying the DSS's ``Criterion of Trustworthiness''}
-In order to achieve this, the DSS has to provide a history of efficiency and good performance. It is recommended that users see statistical data such as ``System Performance''.
-	\item \textbf{Continuous identification and fixing the causes of poor trust calibration}
-In order to improve the trust between humans and the machines, the system (or developers) should be able to identify the root causes of bad trust calibrations, and fix them. This study indicates that some causes of low trust might be incorrect expectation of the users, therefore, the calibration training for the users is very important
-\end{enumerate}
-
 \subsubsection{Human-Self Driving Cars (SDCs)}
 Autonomous driving has been advancing exponentially in the recent years due to technological advancements in AI, mechanics and advanced sensor systems. Car manufacturers such as Google, Tesla, Mercedes-Benz, Ford, and many others have already created commercially available semi-autonomous cars, and fully autonomous prototypes, and they expect mass production of self driving cars (SDCs) in the early 2020s \cite{driverlessFutureForcast}. One major challenge in popularizing SDS in the US and the world would be the high level of distrust of average consumers in fully automated vehicles.
 
 Daniel Howard at UC Berkeley (2013) \cite{howard2014public} explores the factors affecting the trust between humans and SDCs, and attempts to examine the attitude of average consumers towards SDCs in Berkeley, California. Mr. Howard's research indicates that most consumers have positive feelings toward the ease of use that comes with SDCs. In a fully autonomous vehicle, they wouldn't have to feel frustrated when driving in heavy traffic, or finding parking in a busy area due to the benefit of multitasking. One can imagine that at some time in the near future, commuters will be able to take naps, or watch movies while the SDC drives them to wherever they desire. Mr. Howard's also discovered that most individuals have concerns regarding the cost, liability, and the potential loss of control of SDCs. This study also indicated that factors such as level of income and gender affect the consumer's concerns. For example, subjects with higher levels of income were more concerned about liability as opposed to subjects with lower levels of income that were more concerned about the control of SDCs.
+
+An experiment  conducted by William Payre and his team analyzed how alternating levels of trust would impact a driver's reaction time.  The purpose of this experiment was to test the time between Manual Control Recovery (MCR) when emergency situations arose with Fully Automated Driving cars (FAD's).  Cars that are FAD's are certified and eligible to be used by drivers with a standard driver's license.  Nonetheless, the drivers are still accountable for their vehicle and regaining MCR in case of emergency, as well as being in the drivers seat with their seat belt buckled at all times.  Participants were asked to take a questionnaire prior to the simulation, as well as another one after the simulation.  The simulation was divided into three rounds that allowed researchers to test the reaction time between users being warned 30 seconds ahead of time to engage in MCR, and drivers upon emergency situations, in which they would have no warning ahead of time.  The first round allowed users to familiarize themselves with the controllers, the second had users starting the cars, as well as getting them up to 130 kmp until they were signaled to commence the FAD system and then engage in MCR, and the third gave users an emergency situation in which drivers had to engage in MCR as quickly as possible.  This study demonstrated that higher trust levels in the FAD's resulted in slower reaction times, which can create a hazardous environment for drivers who are complacent.  This experiment helped companies become more aware of the problems that over trust can cause, as well as simulate ideas for courses regarding gaining knowledge in MCR.
+[Still must be cited and revised]
 
 Michelle Carlson and her team, in a 2014 paper, provided a statistical analysis in the domain of autonomous vehicles and autonomous diagnostic systems \cite{carlson2014identifying}. Their goal was to identify the major factors that impact level of trust in self driving cars and autonomous medical systems. In this study an online survey was performed in which subjects were asked about various scenarios related to self driving cars. They were also asked about the use of IBM Watson in critical medical situations (e.g determining types of cancer). It was discovered that most test subjects were having concerns regarding the past performance of the car, reliability, errors, software/hardware failure, and the liability manufacturer of the car (e.g Google, or a lesser-known company). Similarly, it was discovered that the top factors that affect the trust in the use of IBM Watson in critical medical situations are the accuracy and past performance among many other factors. This indicates that regardless of the domain, most people tend to prioritize safety, accuracy, and failure rate when trusting an autonomous system.
 
@@ -229,6 +222,47 @@ At the The European Organization for the Safety of Air Navigation (\cite{kelly20
 	\item Keeping the old technology in case failure
 \end{itemize}
 
+\subsubsection{Human-Agents(software agents)}
+With the fast-paced advancements in the field of IT, software agents have become very important assets that help humans with the variety of tasks such as automating repetitive computing tasks, or assisting users with simple things, such as managing their emails. There are also agents capable of doing complex tasks by themselves, without the aid of users. Examples of such agents include automatic shopping assistants, customer help desks, and web robots \cite{IntelligentAgent}. As these software agents grow over time, and their level of complexity increases, the issue of trust in software agents becomes one of many challenges of the use of these agents in sensitive areas. In the movie Resident Evil (2002), there is a powerful software agent called `The Red Queen', who is in charge of a huge underground facility. Due to a bio-hazard outbreak, the Red Queen murders all the employees in the facility in order to contain the virus. Although Resident Evil is a fictional movie, it conveys an interesting concept regarding human-agent trust. In real life, Agents may become so complex that they will be able to take control of facilities or weapon systems. Thus, the level of trust in them becomes a primary concern.
+
+In order to proceed, we need to define what an `agent' exactly is in this context, because it is a broad term. In one major study on software agents, Dr. Hyacinth Nwana defines Software agents as computer programs that have the capability to act on someone's behalf, and the ability to make various choices by themselves \cite{nwana1996software}. In their paper `Software Agents: An Overview', Dr. Nwana provides a detailed overview, and classification of software agents. He and his colleagues have identified three primary attributes that software agents should have: Autonomy, Learning, and cooperation. Autonomy in this case is described as ``The principle that agents can operate on their own without the need for human guidance''. `cooperation' refers to the concept of multiple agents communicating, and cooperating (I will explain this in detail in the later section dedicated to multi-agent systems). The last primary attribute, `learning'' is necessary because agents need to learn, and absorb external information in order to communicate, and respond to different situations.
+
+Dr. Nwana demonstrates that Agents also have attributes that are considered to be secondary. Attributes such as versatility (Engaging in a variety of tasks), helpful behavior, truthfulness, and the level of human-trust in them (which is what we are interested in).
+
+Dr. Nwana identifies seven types of agents in their research:
+\begin{enumerate}
+	\item Collaborative agents
+	\item Interface agents
+	\item Mobile agents
+	\item Information/Internet agents
+	\item Reactive agents
+	\item Hybrid agents
+	\item Smart Agents
+\end{enumerate}
+
+\begin{figure}
+	\centering
+		\includegraphics[width=\textwidth]{Figures/agents.png}
+	\caption{Dr. Nwana's three primary attributes of agents (Dept. of IECS, Feng Chua University, R.O.C., 2003.)}
+\end{figure}
+
+In a study at MIT, Mr. Timothy Bickmore and his partner, Ms. Justine Cassell proposed an interesting model to build trust between users and computer agents \cite{bickmore2001relational}. Provided that in humans, trust is established and maintained by various social interactions such as small talk, Mr. Bickmore and Ms. Cassell argued that the same mechanism can also be used for computer agents to establish trust between users, and them. As an experiment, a computer agent called `REA' was used to communicate with users by performing small talk. REA was able to track the user's movements, and detect their emotional response. The experiment in this study yielded interesting results. It was discovered that users communicating with the REA system using small talk, who also happened to have extrovert personalities, had developed more trust than other users who had more introvert personality traits.
+
+Mr. Bickmore's study indicates that the personality of users can potentially impact the level of trust between humans and agents. An older study conducted on the business school students in California State University yielded similar results. It was discovered that the level of self-esteem in human subjects plays a significant role in their performance and their interaction with a `human-like' computer: ``persons high in self-esteem generated more negative cognitive responses and made fewer errors when faced with human-like rather than machine-like feedback from a computer.'' \cite{resnik1985influence}
+
+A study at University College London titled `Supporting Trust in Virtual Communities' proposes a reputation based trust model designed for improving trust in virtual communities. This trust model is based on `sociological characteristics of trust', such as past experiences and reputation, or `word of mouth'. This proposed model enables agents to take another agent's opinions and recommendations into consideration: ``Our
+proposed model allows agents to decide which other
+agents’ opinions they trust more and allows agents to
+progressively tune their understanding of another agent’s
+subjective recommendations.''  Mr. Abdul-Rahman and his colleague, Mr. Hailes argue that although this trust model is designed for increasing trust between humans and virtual societies, this trust model can also be implemented for artificial autonomous agents, and `artificial societies' \cite{abdul2000supporting}.
+
+
+\subsubsection{Information Security}
+At the The Norwegian University of Science and Technology, Mr. Audun Josang published a paper that aimed to focus on the concept of `trust' in the context of information security, and shed some light on the complex nature of Trust. He also examined various types of trust, and trust driven relationships that are relevant in the context of information security, and distributed systems. Mr. Josang provides an interesting definition of trust by defining it from a malicious point of view. He explains that essentially, trust occurs due to the tendency of humans to avoid malicious behaviors of agents (Other people or software). This concept of trust and detecting malicious behavior is critical in computer security due to potential hackers or agents attempting to penetrate a system. He also explores trust and malicious behavior from a philosophical point of view. \cite{josang1998modelling}
+
+
+A 2006 study by Florina Almenarez et al. proposed a model for managing trust called `Pervasive Trust Management (PTM)' \cite{almenarez2006developing}. `Pervasive' devices are devices which are cumputing at all times. Apple Watches, smart-phones, PDAs etc. are examples of pervasive devices, which have microprocessors that compute things at all times in any network. The increased popularity of such devices produces the issue of trust between these devices communicating with each other, or providing a trusted, secure connection with any network. In this study, Ms. Almenarez, and her colleagues provide a statistical and mathematical trust model to tackle this problem.
+\newpage
 \section{Summary}
 
 %\begin{table}[]
@@ -323,6 +357,35 @@ Category                        & Study & \multicolumn{1}{c|}{Summary}    & \mul
 	& Autopilot personalization
 	\\ \hline
 	
+	\multirow{3}{*}{Human-Agents (Software) } 
+	& \cite{nwana1996software}
+	& Agents have secondary attributes that affect trust                    
+	& N/A (Meta-Analysis)                
+	& Overview of software agents and comparison            
+	\\ \cline{2-5}
+	& \cite{bickmore2001relational}
+	& Small talk builds trust, especially with extroverted personalities. The personality of users can impact the level of trust between humans and robots.
+	& Conversation agent REA
+	& Building trust using social dialogue
+	\\ \cline{2-5} 
+	& \cite{abdul2000supporting}
+	& Model designed to increase trust between agents and agents, and humans and agents                     
+	& Reputation-based trust model (Word of mouth)            
+	& Increasing trust in agents in virtual communities
+	\\ \hline
+	
+	\multirow{2}{*}{Information Security } 
+	& \cite{josang1998modelling}
+	& Trust occurs due to the tendency of humans to avoid malicious behaviors of agents                   
+	& N/A (Analysis)
+	& Trust in IT and malicious agents
+	\\ \cline{2-5} 
+	& \cite{almenarez2006developing}
+	& Mathematical trust model designed to tackle the issue of trust between agents, creating secure connections etc.    
+	& Mathematical Trust Evolution Model                       
+	& Trust between agents in Pervasive devices (such as smart-phones and PDAs)
+	\\ \hline
+
 %\end{tabular}
 \end{longtable}
 \end{center}
