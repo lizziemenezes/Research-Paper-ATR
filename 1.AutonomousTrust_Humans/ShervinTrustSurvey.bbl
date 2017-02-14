@@ -1,9 +1,22 @@
 \begin{thebibliography}{10}
 
+\bibitem{abdul2000supporting}
+{\sc Abdul-Rahman, A., and Hailes, S.}
+\newblock Supporting trust in virtual communities.
+\newblock In {\em System Sciences, 2000. Proceedings of the 33rd Annual Hawaii
+  International Conference on\/} (2000), IEEE, pp.~9--pp.
+
 \bibitem{adams2003trust}
 {\sc Adams, B.~D., Bruyn, L.~E., and Houde, S.}
 \newblock {\em Trust in Automated Systems, Literature Review}.
 \newblock Humansystems Incorporated, 2003.
+
+\bibitem{almenarez2006developing}
+{\sc Almenarez, F., Marin, A., D{\'\i}az, D., and Sanchez, J.}
+\newblock Developing a model for trust management in pervasive devices.
+\newblock In {\em Fourth Annual IEEE International Conference on Pervasive
+  Computing and Communications Workshops (PERCOMW'06)\/} (2006), IEEE,
+  pp.~5--pp.
 
 \bibitem{autonomousArmedRobots}
 {\sc article36}.
@@ -26,6 +39,12 @@
 \newblock {\em Autonomous Robots: From Biological Inspiration to Implementation
   and Control (Intelligent Robotics and Autonomous Agents)}.
 \newblock The MIT Press, 2005.
+
+\bibitem{bickmore2001relational}
+{\sc Bickmore, T., and Cassell, J.}
+\newblock Relational agents: a model and implementation of building user trust.
+\newblock In {\em Proceedings of the SIGCHI conference on Human factors in
+  computing systems\/} (2001), ACM, pp.~396--403.
 
 \bibitem{butakov2015driving}
 {\sc Butakov, V., and Ioannou, P.}
@@ -92,6 +111,12 @@
 \newblock {\em Computer Emergency Response Team for Security and Industry
   (CERTSI)\/} (1969).
 
+\bibitem{josang1998modelling}
+{\sc J{\o}sang, A.}
+\newblock Modelling trust in information society.
+\newblock {\em Unpublished doctoral thesis, Department of Telematics, Norwegian
+  University of Science and Technology, Trondheim, Norway\/} (1998).
+
 \bibitem{kelly2003guidelines}
 {\sc Kelly, C.}
 \newblock Guidelines for trust in future atm systems-principles.
@@ -103,6 +128,12 @@
 \newblock {\em Transportation research part F: traffic psychology and behaviour
   32\/} (2015), 127--140.
 
+\bibitem{lee1992trust}
+{\sc Lee, J., and Moray, N.}
+\newblock Trust, control strategies and allocation of function in human-machine
+  systems.
+\newblock {\em Ergonomics 35}, 10 (1992), 1243--1270.
+
 \bibitem{merritt2008not}
 {\sc Merritt, S.~M., and Ilgen, D.~R.}
 \newblock Not all trust is created equal: Dispositional and history-based trust
@@ -110,25 +141,32 @@
 \newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
   Society 50}, 2 (2008), 194--210.
 
-\bibitem{muir1987trust}
-{\sc Muir, B.~M.}
-\newblock Trust between humans and machines, and the design of decision aids.
-\newblock {\em International Journal of Man-Machine Studies 27}, 5-6 (1987),
-  527--539.
+\bibitem{nwana1996software}
+{\sc Nwana, H.~S.}
+\newblock Software agents: An overview.
+\newblock {\em The knowledge engineering review 11}, 03 (1996), 205--244.
 
 \bibitem{parasuraman2004trust}
 {\sc Parasuraman, R., and Miller, C.~A.}
 \newblock Trust and etiquette in high-criticality automated systems.
 \newblock {\em Communications of the ACM 47}, 4 (2004), 51--55.
 
+\bibitem{payre2016fully}
+{\sc Payre, W., Cestac, J., and Delhomme, P.}
+\newblock Fully automated driving impact of trust and practice on manual
+  control recovery.
+\newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
+  Society 58}, 2 (2016), 229--241.
+
 \bibitem{penders2013enhancing}
 {\sc Penders, J., Jones, P., Ranasinghe, A., and Nanayakara, T.}
 \newblock Enhancing trust and confidence in human robot interaction.
 
-\bibitem{decisionSupportTrust}
-{\sc Power, D.}
-\newblock {\em Types of Decision Support Systems}.
-\newblock gdrc.org, 2016.
+\bibitem{resnik1985influence}
+{\sc Resnik, P.~V., and Lammers, H.~B.}
+\newblock The influence of self-esteem on cognitive responses to machine-like
+  versus human-like computer feedback.
+\newblock {\em The Journal of Social Psychology 125}, 6 (1985), 761--769.
 
 \bibitem{IndustrialRevolution}
 {\sc Robinson, M.}
@@ -151,6 +189,10 @@
   environments.
 \newblock In {\em Proc. of the Human Implications of Human-Robot Interaction
   workshop at AAAI\/} (2008), pp.~27--32.
+
+\bibitem{IntelligentAgent}
+{\sc Tran, H. T. .~T.}
+\newblock Intelligent agent.
 
 \bibitem{oxfordDicTrust}
 {\sc Trust.}
