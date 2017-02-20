@@ -191,6 +191,17 @@ A research conducted by Ms. Rosemarie Yagoda and her research partner, Mr. Dougl
 
 In a 2014 paper, Yue Wang and partners investigated the human-robot trust in the context of underwater semi-autonomous robots \cite{wang2014human}. In order for the underwater robot to have a good performance, the person who is operating the robot needs to trust its autonomous capabilities. This study proposed a trust model that mainly deals with recording the robot's past performance, the human performance, and the fault rates of humans and robots. The semi-autonomous robot `YSI EcoMapper AUV' was investigated in this study specifically. Furthermore, MATLAB simulations indicate the effectiveness of this trust model.
 
+In 1987, Bonnie Muir at the department of Psychology at University of Toronto, provided an analysis on the human-machine trust from a Psychological perspective \cite{muir1987trust}. This paper talks about ``Decision Support Systems'' (DSSs), and how trust is involved in the use of such systems. DSSs are computer programs that assist an individual, or an organization make decisions. These decisions include ranking important documents, buying and selling stocks quickly, choosing a target market, and many other important decisions \cite{decisionSupportTrust}. Since DSSs have a high impact on some critical decisions, the user's trust in such systems becomes a very important factor when designing  Decision Support Systems. Muir initially analyzed the Psychological trust models between humans, and used these models to provide a human-machine trust model. In this model, the concept of ``Trust calibration'' is introduced, in which, the user's have the responsibility of calibrating their trust based on the reliability of the DSS they are using. Muir suggests that when designing DSSs, there are certain factors and design goals that could contribute to better trust calibration. These factors are:
+ \begin{enumerate}
+ 	\item \textbf{Aiming to improve the user's perception of trustworthiness of the DSS.}
+ 	This would require the user to completely understand how a DSS works, and become familiar with the predictability of the system's decisions. Muir suggest that this can be achieved by putting the user on a trial period of using a DSS, in order to improve the user's perception. A recommended technique is the use of a simulation environment so the user can freely explore the DSS without the fear of it making bad, or dangerous decisions.
+ 	\item \textbf{Modifying the DSS's ``Criterion of Trustworthiness''}
+ In order to achieve this, the DSS has to provide a history of efficiency and good performance. It is recommended that users see statistical data such as ``System Performance''.
+ 	\item \textbf{Continuous identification and fixing the causes of poor trust calibration}
+ In order to improve the trust between humans and the machines, the system (or developers) should be able to identify the root causes of bad trust calibrations, and fix them. This study indicates that some causes of low trust might be incorrect expectation of the users, therefore, the calibration training for the users is very important
+ \end{enumerate}
+ 
+
 In 1992, John Lee and Neville Moray explored the human-machine trust by studying the interactions of the users of a ``Semi-Automatic Pasteurization plant'' \cite{lee1992trust}. Based on the previous research, it had been known that the level of trust between humans and autonomous or semi-autonomous systems fluctuates depending on a variety of factors. For example, if was argued that some users didn't trust the new, semi-autonomous technology at all, and preferred to use the manual controls, instead of letting the autonomous system take care of the work. Some other users, interestingly, put ``too much'' trust in these systems, therefore, the risks of potential errors or faulty behavior caused by the system was possible. In the experiment provided by this paper, users were given the choices of operating a semi-automatic pasteurization plant for pasteurizing orange juice (simulation) using the manual mode, or the automatic-mode, or a combination of the mentioned two methods. This experiment indicated that the majority of users were able to adapt fairy quickly to this semi-automatic systems, however, when faulty behavior occurred, it was observed that the level of trust recovered more slowly. It was also concluded that the performance of the system significantly impacts the user's level of trust in the system.
 
 
@@ -212,6 +223,8 @@ Tove Helldin and colleagues at the University of Skövde in Sweden conducted a s
 
 In a study, Monika Hengstler and colleagues investigated the trust in AI applications, primarily focusing on autonomous vehicles and medical assistance devices (MAD) \cite{hengstler2016applied}. In this paper, Ms. Hengstler argued that currently, there is a large amount of human skepticism and distrust in fully AI applications. Although it has been known that in the world of AI, we have strong AI, and weak AI, the current industries have been using weak AI to implement commercial applications and products for the consumers to use. The main reason for this is because strong AI is still at its early phases of development (It is still very far from something like the Terminator's Skynet). Considering the role of trust between humans, and how it is similar to human-machine trust, this study identified that the two major industrial areas directly affected by society's distrust in AI and autonomous systems are autonomous vehicles such as SDCs, autonomous trains, transportation services, and medical assistant systems such as IBM's Watson - An AI software capable of understanding natural language and solving problems - and other applications in the domain of healthcare, and proceeded to provide case studies and case by case analysis by interviewing industry's professionals and subject matter experts. It was concluded that in the case of autonomous vehicles, vehicle safety, on top of everything, affects the human level of trust in them. The second major factor, was found to be ``Data Security''. Data security in this case means how secure, and correct the information perceived by the sensors and how secure is the data processed by their system. In medical autonomous systems, it was concluded that the top concern among consumer is privacy. These medical assistant applications might contain sensitive information stored in their databases regarding patients and care about their privacy. Therefore, this study suggests that in order to improve the trust between humans and autonomous systems, future research, and focus of the industry should shift towards the above issues.
 
+In a similar paper, Ann-Marie Nienaber and her partner, Gerhard Schewe conducted a research on the significance of perceived risk reduction in new, innovative products vs enhancing trust in the new product \cite{nienaber2014enhancing}. After collecting data from 490 subjects and analyzing their responses, it was concluded that working on improving the trust in the new product is more important than just focusing on risk reduction. This claim was supported by the fact that the test results trust in new products by consumers appears to be more subjective, and ``decisive'', therefore, it is recommended for the companies creating new, innovative products to not just reduce the perceived risks that comes with the product, but to work with potential customers, and help them increase their trust. For example, in the case of SDCs, this concept can be applied. Car manufacturers working on creating fully autonomous vehicles not only should work on reducing the perceived risks of driving a SDC, but they should also work on increasing their customers' trust in SDCs. Perhaps this can be achieved by setting up many demos of SDCs for general public, or even simulations for users who are afraid of even trying SDCs. This will improve the overall trust in the product, and thus, guaranteed increase of sales. Another interesting finding by this study was that the general dislike of new, unknown, and innovative products has ``no influence on the
+relationship between contact intensity and relationship commitment''. This is a very unique, and interesting conclusion, because the majority of papers in the domain of human-machine trust claim the opposite.
 
 \subsubsection{Human-Autopilot Modes}
 Scott Winter and colleagues \cite{winter2015indian} explored this low level of trust in the context of humans trusting autonomous aircraft. Subjects were asked if they preferred to be on a commercial plane with two pilots (a pilot and a copilot), a plane with a pilot in the cockpit and the copilot remotely working, or a plane with both pilots remotely controlling the aircraft. Mr. Winter and colleagues discovered that the subjects express a high degree of discomfort if they were on a fully autonomous commercial plane with both pilots just overseeing the movements and controlling the airplane remotely. They also discovered that subjects also expressed a low level of trust when only one pilot is in the cockpit and another one controlling the aircraft remotely. In this study, it was also concluded that the level of trust between humans and autonomous aircrafts is potentially related to the culture of humans. For example, it was discovered that test subjects from India feel more comfortable if they were on a fully autonomous aircraft, as opposed to subjects from the United States. Mr. Winter and colleagues found out that this difference could be due to the collectivist Indian culture, as apposed to the Individualist American culture.
@@ -227,47 +240,7 @@ At the The European Organization for the Safety of Air Navigation (\cite{kelly20
 	\item Keeping the old technology in case failure
 \end{itemize}
 
-\subsubsection{Human-Agents(software agents)}
-With the fast-paced advancements in the field of IT, software agents have become very important assets that help humans with the variety of tasks such as automating repetitive computing tasks, or assisting users with simple things, such as managing their emails. There are also agents capable of doing complex tasks by themselves, without the aid of users. Examples of such agents include automatic shopping assistants, customer help desks, and web robots \cite{IntelligentAgent}. As these software agents grow over time, and their level of complexity increases, the issue of trust in software agents becomes one of many challenges of the use of these agents in sensitive areas. In the movie Resident Evil (2002), there is a powerful software agent called `The Red Queen', who is in charge of a huge underground facility. Due to a bio-hazard outbreak, the Red Queen murders all the employees in the facility in order to contain the virus. Although Resident Evil is a fictional movie, it conveys an interesting concept regarding human-agent trust. In real life, Agents may become so complex that they will be able to take control of facilities or weapon systems. Thus, the level of trust in them becomes a primary concern.
 
-In order to proceed, we need to define what an `agent' exactly is in this context, because it is a broad term. In one major study on software agents, Dr. Hyacinth Nwana defines Software agents as computer programs that have the capability to act on someone's behalf, and the ability to make various choices by themselves \cite{nwana1996software}. In their paper `Software Agents: An Overview', Dr. Nwana provides a detailed overview, and classification of software agents. He and his colleagues have identified three primary attributes that software agents should have: Autonomy, Learning, and cooperation. Autonomy in this case is described as ``The principle that agents can operate on their own without the need for human guidance''. `cooperation' refers to the concept of multiple agents communicating, and cooperating (I will explain this in detail in the later section dedicated to multi-agent systems). The last primary attribute, `learning'' is necessary because agents need to learn, and absorb external information in order to communicate, and respond to different situations.
-
-Dr. Nwana demonstrates that Agents also have attributes that are considered to be secondary. Attributes such as versatility (Engaging in a variety of tasks), helpful behavior, truthfulness, and the level of human-trust in them (which is what we are interested in).
-
-Dr. Nwana identifies seven types of agents in their research:
-\begin{enumerate}
-	\item Collaborative agents
-	\item Interface agents
-	\item Mobile agents
-	\item Information/Internet agents
-	\item Reactive agents
-	\item Hybrid agents
-	\item Smart Agents
-\end{enumerate}
-
-\begin{figure}
-	\centering
-		\includegraphics[width=\textwidth]{Figures/agents.png}
-	\caption{Dr. Nwana's three primary attributes of agents (Dept. of IECS, Feng Chua University, R.O.C., 2003.)}
-\end{figure}
-
-In a study at MIT, Mr. Timothy Bickmore and his partner, Ms. Justine Cassell proposed an interesting model to build trust between users and computer agents \cite{bickmore2001relational}. Provided that in humans, trust is established and maintained by various social interactions such as small talk, Mr. Bickmore and Ms. Cassell argued that the same mechanism can also be used for computer agents to establish trust between users, and them. As an experiment, a computer agent called `REA' was used to communicate with users by performing small talk. REA was able to track the user's movements, and detect their emotional response. The experiment in this study yielded interesting results. It was discovered that users communicating with the REA system using small talk, who also happened to have extrovert personalities, had developed more trust than other users who had more introvert personality traits.
-
-Mr. Bickmore's study indicates that the personality of users can potentially impact the level of trust between humans and agents. An older study conducted on the business school students in California State University yielded similar results. It was discovered that the level of self-esteem in human subjects plays a significant role in their performance and their interaction with a `human-like' computer: ``persons high in self-esteem generated more negative cognitive responses and made fewer errors when faced with human-like rather than machine-like feedback from a computer.'' \cite{resnik1985influence}
-
-A study at University College London titled `Supporting Trust in Virtual Communities' proposes a reputation based trust model designed for improving trust in virtual communities. This trust model is based on `sociological characteristics of trust', such as past experiences and reputation, or `word of mouth'. This proposed model enables agents to take another agent's opinions and recommendations into consideration: ``Our
-proposed model allows agents to decide which other
-agents’ opinions they trust more and allows agents to
-progressively tune their understanding of another agent’s
-subjective recommendations.''  Mr. Abdul-Rahman and his colleague, Mr. Hailes argue that although this trust model is designed for increasing trust between humans and virtual societies, this trust model can also be implemented for artificial autonomous agents, and `artificial societies' \cite{abdul2000supporting}.
-
-
-\subsubsection{Information Security}
-At the The Norwegian University of Science and Technology, Mr. Audun Josang published a paper that aimed to focus on the concept of `trust' in the context of information security, and shed some light on the complex nature of Trust. He also examined various types of trust, and trust driven relationships that are relevant in the context of information security, and distributed systems. Mr. Josang provides an interesting definition of trust by defining it from a malicious point of view. He explains that essentially, trust occurs due to the tendency of humans to avoid malicious behaviors of agents (Other people or software). This concept of trust and detecting malicious behavior is critical in computer security due to potential hackers or agents attempting to penetrate a system. He also explores trust and malicious behavior from a philosophical point of view. \cite{josang1998modelling}
-
-
-A 2006 study by Florina Almenarez et al. proposed a model for managing trust called `Pervasive Trust Management (PTM)' \cite{almenarez2006developing}. `Pervasive' devices are devices which are cumputing at all times. Apple Watches, smart-phones, PDAs etc. are examples of pervasive devices, which have microprocessors that compute things at all times in any network. The increased popularity of such devices produces the issue of trust between these devices communicating with each other, or providing a trusted, secure connection with any network. In this study, Ms. Almenarez, and her colleagues provide a statistical and mathematical trust model to tackle this problem.
-\newpage
 \section{Summary}
 
 %\begin{table}[]
@@ -362,34 +335,7 @@ Category                        & Study & \multicolumn{1}{c|}{Summary}    & \mul
 	& Autopilot personalization
 	\\ \hline
 	
-	\multirow{3}{*}{Human-Agents (Software) } 
-	& \cite{nwana1996software}
-	& Agents have secondary attributes that affect trust                    
-	& N/A (Meta-Analysis)                
-	& Overview of software agents and comparison            
-	\\ \cline{2-5}
-	& \cite{bickmore2001relational}
-	& Small talk builds trust, especially with extroverted personalities. The personality of users can impact the level of trust between humans and robots.
-	& Conversation agent REA
-	& Building trust using social dialogue
-	\\ \cline{2-5} 
-	& \cite{abdul2000supporting}
-	& Model designed to increase trust between agents and agents, and humans and agents                     
-	& Reputation-based trust model (Word of mouth)            
-	& Increasing trust in agents in virtual communities
-	\\ \hline
-	
-	\multirow{2}{*}{Information Security } 
-	& \cite{josang1998modelling}
-	& Trust occurs due to the tendency of humans to avoid malicious behaviors of agents                   
-	& N/A (Analysis)
-	& Trust in IT and malicious agents
-	\\ \cline{2-5} 
-	& \cite{almenarez2006developing}
-	& Mathematical trust model designed to tackle the issue of trust between agents, creating secure connections etc.    
-	& Mathematical Trust Evolution Model                       
-	& Trust between agents in Pervasive devices (such as smart-phones and PDAs)
-	\\ \hline
+e
 
 %\end{tabular}
 \end{longtable}
