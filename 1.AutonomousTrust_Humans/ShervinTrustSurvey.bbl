@@ -99,6 +99,14 @@
 \newblock {\em Computer Emergency Response Team for Security and Industry
   (CERTSI)\/} (1969).
 
+\bibitem{itoh1999trust}
+{\sc Itoh, M., Abe, G., and Tanaka, K.}
+\newblock Trust in and use of automation: their dependence on occurrence
+  patterns of malfunctions.
+\newblock In {\em Systems, Man, and Cybernetics, 1999. IEEE SMC'99 Conference
+  Proceedings. 1999 IEEE International Conference on\/} (1999), vol.~3, IEEE,
+  pp.~715--720.
+
 \bibitem{kelly2003guidelines}
 {\sc Kelly, C.}
 \newblock Guidelines for trust in future atm systems-principles.
@@ -115,6 +123,12 @@
 \newblock Trust, control strategies and allocation of function in human-machine
   systems.
 \newblock {\em Ergonomics 35}, 10 (1992), 1243--1270.
+
+\bibitem{madhavan2007similarities}
+{\sc Madhavan, P., and Wiegmann, D.~A.}
+\newblock Similarities and differences between human--human and
+  human--automation trust: an integrative review.
+\newblock {\em Theoretical Issues in Ergonomics Science 8}, 4 (2007), 277--301.
 
 \bibitem{merritt2008not}
 {\sc Merritt, S.~M., and Ilgen, D.~R.}
@@ -140,6 +154,13 @@
 \newblock Trust in automation. part ii. experimental studies of trust and human
   intervention in a process control simulation.
 \newblock {\em Ergonomics 39}, 3 (1996), 429--460.
+
+\bibitem{murphy2004robot}
+{\sc Murphy, R.~R., Riddle, D., and Rasmussen, E.}
+\newblock Robot-assisted medical reachback: a survey of how medical personnel
+  expect to interact with rescue robots.
+\newblock In {\em Robot and Human Interactive Communication, 2004. ROMAN 2004.
+  13th IEEE International Workshop on\/} (2004), IEEE, pp.~301--306.
 
 \bibitem{nienaber2014enhancing}
 {\sc Nienaber, A.-M., and Schewe, G.}
