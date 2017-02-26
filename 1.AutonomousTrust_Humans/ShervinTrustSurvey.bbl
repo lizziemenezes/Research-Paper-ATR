@@ -48,6 +48,12 @@
 \newblock In {\em AAAI Symposium on The Intersection of Robust Intelligence and
   Trust in Autonomous Systems\/} (2014), pp.~20--27.
 
+\bibitem{dassonville1996trust}
+{\sc Dassonville, I., Jolly, D., and Desodt, A.}
+\newblock Trust between man and machine in a teleoperation system.
+\newblock {\em Reliability Engineering \& System Safety 53}, 3 (1996),
+  319--325.
+
 \bibitem{driverlessFutureForcast}
 {\sc driverless future}.
 \newblock Forecasts.
@@ -134,12 +140,6 @@
 \newblock Trust, control strategies and allocation of function in human-machine
   systems.
 \newblock {\em Ergonomics 35}, 10 (1992), 1243--1270.
-
-\bibitem{lee1994trust}
-{\sc Lee, J.~D., and Moray, N.}
-\newblock Trust, self-confidence, and operators' adaptation to automation.
-\newblock {\em International journal of human-computer studies 40}, 1 (1994),
-  153--184.
 
 \bibitem{madhavan2007similarities}
 {\sc Madhavan, P., and Wiegmann, D.~A.}
