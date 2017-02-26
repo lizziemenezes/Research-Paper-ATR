@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.9)  25 FEB 2017 16:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.9)  26 FEB 2017 01:29
 entering extended mode
 **./ShervinTrustSurvey.tex
 (ShervinTrustSurvey.tex
@@ -490,13 +490,13 @@ Underfull \vbox (badness 2158) has occurred while \output is active []
 Underfull \vbox (badness 1466) has occurred while \output is active []
 
  [10]
-Underfull \vbox (badness 5105) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¶ in font cmr10!
 
-Underfull \vbox (badness 5105) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -505,215 +505,215 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <Figures/ECommerceTrust.png, id=55, 963.6pt x 542.025pt>
 File: Figures/ECommerceTrust.png Graphic file (type png)
  <use Figures/ECommerceTrust.png>
-Package pdftex.def Info: Figures/ECommerceTrust.png used on input line 243.
+Package pdftex.def Info: Figures/ECommerceTrust.png used on input line 244.
 (pdftex.def)             Requested size: 347.12354pt x 195.2529pt.
- [14 <./Figures/ECommerceTrust.png>]
-Underfull \hbox (badness 1565) in paragraph at lines 278--279
+ [14]
+Underfull \hbox (badness 1565) in paragraph at lines 279--280
 \OT1/cmr/m/n/10 por-tant role as well as
  []
 
 
-Underfull \hbox (badness 4765) in paragraph at lines 278--279
+Underfull \hbox (badness 4765) in paragraph at lines 279--280
 \OT1/cmr/m/n/10 trust, and The un-pre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 []|\OT1/cmr/m/n/10 Computer
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 \OT1/cmr/m/n/10 sim-u-la-tion
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 279--280
+Underfull \hbox (badness 2846) in paragraph at lines 280--281
 \OT1/cmr/m/n/10 based on a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 \OT1/cmr/m/n/10 fire-fight-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 []|\OT1/cmr/m/n/10 Military,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 \OT1/cmr/m/n/10 Haz-ardous
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 \OT1/cmr/m/n/10 en-vi-ron-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--284
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
 []|\OT1/cmr/m/n/10 Mathematical def-i-ni-tion
  []
 
 
-Underfull \hbox (badness 7486) in paragraph at lines 283--284
+Underfull \hbox (badness 7486) in paragraph at lines 284--285
 \OT1/cmr/m/n/10 for trust, where trust
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 283--284
+Underfull \hbox (badness 3058) in paragraph at lines 284--285
 \OT1/cmr/m/n/10 is a vari-able T. Trust
  []
 
 
-Underfull \hbox (badness 4156) in paragraph at lines 283--284
+Underfull \hbox (badness 4156) in paragraph at lines 284--285
 \OT1/cmr/m/n/10 or mech-a-nism that al-
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 284--285
+Underfull \hbox (badness 1394) in paragraph at lines 285--286
 []|\OT1/cmr/m/n/10 trust prop-a-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--286
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
 []|\OT1/cmr/m/n/10 Math-based
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 285--286
+Underfull \hbox (badness 1394) in paragraph at lines 286--287
 \OT1/cmr/m/n/10 trust prop-a-
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 289--290
+Underfull \hbox (badness 2221) in paragraph at lines 290--291
 []|\OT1/cmr/m/n/10 N/A (meta-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
 []|\OT1/cmr/m/n/10 visually
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
 \OT1/cmr/m/n/10 im-paired
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 295--296
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
 []|\OT1/cmr/m/n/10 Improving
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--300
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 []|\OT1/cmr/m/n/10 X-ray
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--300
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 \OT1/cmr/m/n/10 screen-ing
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 303--304
+Underfull \hbox (badness 1895) in paragraph at lines 304--305
 []|\OT1/cmr/m/n/10 Etiquette af-fects hu-man
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 304--305
+Underfull \hbox (badness 1052) in paragraph at lines 305--306
 []|\OT1/cmr/m/n/10 Flight sim-u-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--306
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
 []|\OT1/cmr/m/n/10 Impact of
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 305--306
+Underfull \hbox (badness 1845) in paragraph at lines 306--307
 \OT1/cmr/m/n/10 eti-quette on
  []
 
 
-Underfull \hbox (badness 8094) in paragraph at lines 309--310
+Underfull \hbox (badness 8094) in paragraph at lines 310--311
 \OT1/cmr/m/n/10 ter Ex-perts
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
 []|\OT1/cmr/m/n/10 Trust mea-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--315
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
 []|\OT1/cmr/m/n/10 YSI
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--315
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
 \OT1/cmr/m/n/10 EcoMap-per
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--315
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
 \OT1/cmr/m/n/10 au-tonomous
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--315
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
 \OT1/cmr/m/n/10 un-der-wa-ter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
 []|\OT1/cmr/m/n/10 Semi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
 \OT1/cmr/m/n/10 autonomous
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 319--320
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
 []|\OT1/cmr/m/n/10 Most con-sumers like
  []
 
 
-Underfull \hbox (badness 3503) in paragraph at lines 319--320
+Underfull \hbox (badness 3503) in paragraph at lines 320--321
 \OT1/cmr/m/n/10 SDC's. Dif-fer-ent peo-ple
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
 []|\OT1/cmr/m/n/10 Survey
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 320--321
+Underfull \hbox (badness 2846) in paragraph at lines 321--322
 \OT1/cmr/m/n/10 based on a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
 \OT1/cmr/m/n/10 10 minute
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 []|\OT1/cmr/m/n/10 Perception
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 \OT1/cmr/m/n/10 of user's
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 \OT1/cmr/m/n/10 trust in
  []
 
@@ -721,192 +721,192 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 7540) in paragraph at lines 325--326
+Underfull \hbox (badness 7540) in paragraph at lines 326--327
 []|\OT1/cmr/m/n/10 Surveys us-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
 \OT1/cmr/m/n/10 ing Sur-vey
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
 \OT1/cmr/m/n/10 Ama-zons
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
 \OT1/cmr/m/n/10 Me-chan-i-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
 []|\OT1/cmr/m/n/10 Trust in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
 \OT1/cmr/m/n/10 Au-to-mated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
 \OT1/cmr/m/n/10 Cars and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
 \OT1/cmr/m/n/10 Med-i-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
 \OT1/cmr/m/n/10 Di-ag-no-sis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
 []|\OT1/cmr/m/n/10 The ge-o-graphic po-si-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
 \OT1/cmr/m/n/10 tion-ing and ed-u-ca-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--331
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
 []|\OT1/cmr/m/n/10 Internet-
  []
 
 
-Underfull \hbox (badness 6125) in paragraph at lines 334--335
+Underfull \hbox (badness 6125) in paragraph at lines 335--336
 \OT1/cmr/m/n/10 im-prov-ing will in-crease
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--336
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
 \OT1/cmr/m/n/10 of ex-ist-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--337
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
 []|\OT1/cmr/m/n/10 Safety for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--337
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
 \OT1/cmr/m/n/10 SDC soft-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--337
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
 \OT1/cmr/m/n/10 ware based
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 336--337
+Underfull \hbox (badness 1776) in paragraph at lines 337--338
 \OT1/cmr/m/n/10 on 'fal-si-fi-ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
 \OT1/cmr/m/n/10 u-la-tor by
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--342
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
 []|\OT1/cmr/m/n/10 The un-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--342
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
 \OT1/cmr/m/n/10 cer-tainty
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--342
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
 \OT1/cmr/m/n/10 of SDCs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--342
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
 \OT1/cmr/m/n/10 in var-i-ous
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--348
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
 []|\OT1/cmr/m/n/10 Internet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 []|\OT1/cmr/m/n/10 Trust in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 \OT1/cmr/m/n/10 au-tonomous
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 \OT1/cmr/m/n/10 and semi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 \OT1/cmr/m/n/10 autonomous
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 \OT1/cmr/m/n/10 auto pi-lot
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 352--353
+Underfull \hbox (badness 2418) in paragraph at lines 353--354
 []|\OT1/cmr/m/n/10 Data col-lec-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
 \OT1/cmr/m/n/10 ex-per-i-men-tal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--354
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 []|\OT1/cmr/m/n/10 Autopilot
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--354
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 \OT1/cmr/m/n/10 per-son-al-iza-
  []
 
 
-Overfull \hbox (31.67651pt too wide) in alignment at lines 272--359
+Overfull \hbox (31.67651pt too wide) in alignment at lines 273--360
 [] [] [] [] []
  []
 
-
-Underfull \vbox (badness 10000) detected at line 359
+[15 <./Figures/ECommerceTrust.png>]
+Underfull \vbox (badness 10000) detected at line 360
  []
 
-[15] [16] (ShervinTrustSurvey.bbl [17]
+[16] (ShervinTrustSurvey.bbl [17]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ” in font cmr9!
  [18]) [19] (ShervinTrustSurvey.aux) ) 
 Here is how much of TeX's memory you used:
- 4688 strings out of 493334
- 59207 string characters out of 3139246
- 182489 words of memory out of 3000000
- 8081 multiletter control sequences out of 15000+200000
+ 4689 strings out of 493334
+ 59232 string characters out of 3139246
+ 178493 words of memory out of 3000000
+ 8082 multiletter control sequences out of 15000+200000
  8630 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,35p,2144b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,8n,35p,2144b,327s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program
  Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
@@ -914,7 +914,7 @@ e1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmtt9.pfb>
-Output written on ShervinTrustSurvey.pdf (19 pages, 457847 bytes).
+Output written on ShervinTrustSurvey.pdf (19 pages, 458921 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
