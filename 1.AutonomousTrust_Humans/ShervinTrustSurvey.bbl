@@ -27,6 +27,19 @@
   and Control (Intelligent Robotics and Autonomous Agents)}.
 \newblock The MIT Press, 2005.
 
+\bibitem{biros2004influence}
+{\sc Biros, D.~P., Daly, M., and Gunsch, G.}
+\newblock The influence of task load and automation trust on deception
+  detection.
+\newblock {\em Group Decision and Negotiation 13}, 2 (2004), 173--189.
+
+\bibitem{bisantz2001assessment}
+{\sc Bisantz, A.~M., and Seong, Y.}
+\newblock Assessment of operator trust in and utilization of automated
+  decision-aids under different framing conditions.
+\newblock {\em International Journal of Industrial Ergonomics 28}, 2 (2001),
+  85--97.
+
 \bibitem{butakov2015driving}
 {\sc Butakov, V., and Ioannou, P.}
 \newblock Driving autopilot with personalization feature for improved safety
@@ -48,16 +61,35 @@
 \newblock In {\em AAAI Symposium on The Intersection of Robust Intelligence and
   Trust in Autonomous Systems\/} (2014), pp.~20--27.
 
+\bibitem{castelfranchi2000trust}
+{\sc Castelfranchi, C., and Falcone, R.}
+\newblock Trust and control: a dialectic link.
+\newblock {\em Applied Artificial Intelligence 14}, 8 (2000), 799--823.
+
 \bibitem{dassonville1996trust}
 {\sc Dassonville, I., Jolly, D., and Desodt, A.}
 \newblock Trust between man and machine in a teleoperation system.
 \newblock {\em Reliability Engineering \& System Safety 53}, 3 (1996),
   319--325.
 
+\bibitem{de2003effects}
+{\sc de~Vries, P., Midden, C., and Bouwhuis, D.}
+\newblock The effects of errors on system trust, self-confidence, and the
+  allocation of control in route planning.
+\newblock {\em International Journal of Human-Computer Studies 58}, 6 (2003),
+  719--735.
+
 \bibitem{driverlessFutureForcast}
 {\sc driverless future}.
 \newblock Forecasts.
 \newblock {\em http://www.driverless-future.com/6\/} (2016).
+
+\bibitem{dzindolet2003role}
+{\sc Dzindolet, M.~T., Peterson, S.~A., Pomranky, R.~A., Pierce, L.~G., and
+  Beck, H.~P.}
+\newblock The role of trust in automation reliance.
+\newblock {\em International Journal of Human-Computer Studies 58}, 6 (2003),
+  697--718.
 
 \bibitem{esfandiari2001agents}
 {\sc Esfandiari, B., and Chandrasekharan, S.}
@@ -124,6 +156,14 @@
   Proceedings. 1999 IEEE International Conference on\/} (1999), vol.~3, IEEE,
   pp.~715--720.
 
+\bibitem{jiang2004measurement}
+{\sc Jiang, X., Khasawneh, M.~T., Master, R., Bowling, S.~R., Gramopadhye,
+  A.~K., Melloy, B.~J., and Grimes, L.}
+\newblock Measurement of human trust in a hybrid inspection system based on
+  signal detection theory measures.
+\newblock {\em International journal of industrial ergonomics 34}, 5 (2004),
+  407--419.
+
 \bibitem{kelly2003guidelines}
 {\sc Kelly, C.}
 \newblock Guidelines for trust in future atm systems-principles.
@@ -141,6 +181,17 @@
   systems.
 \newblock {\em Ergonomics 35}, 10 (1992), 1243--1270.
 
+\bibitem{lee2004trust}
+{\sc Lee, J.~D., and See, K.~A.}
+\newblock Trust in automation: Designing for appropriate reliance.
+\newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
+  Society 46}, 1 (2004), 50--80.
+
+\bibitem{li2010cross}
+{\sc Li, D., Rau, P.~P., and Li, Y.}
+\newblock A cross-cultural study: Effect of robot appearance and task.
+\newblock {\em International Journal of Social Robotics 2}, 2 (2010), 175--186.
+
 \bibitem{madhavan2007similarities}
 {\sc Madhavan, P., and Wiegmann, D.~A.}
 \newblock Similarities and differences between human--human and
@@ -153,6 +204,13 @@
   in human-automation interactions.
 \newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
   Society 50}, 2 (2008), 194--210.
+
+\bibitem{moray1999laboratory}
+{\sc Moray, N., and Inagaki, T.}
+\newblock Laboratory studies of trust between humans and machines in automated
+  systems.
+\newblock {\em Transactions of the Institute of Measurement and Control 21},
+  4-5 (1999), 203--211.
 
 \bibitem{muir1987trust}
 {\sc Muir, B.~M.}
@@ -191,6 +249,12 @@
 \newblock Trust and etiquette in high-criticality automated systems.
 \newblock {\em Communications of the ACM 47}, 4 (2004), 51--55.
 
+\bibitem{parasuraman1997humans}
+{\sc Parasuraman, R., and Riley, V.}
+\newblock Humans and automation: Use, misuse, disuse, abuse.
+\newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
+  Society 39}, 2 (1997), 230--253.
+
 \bibitem{pavlou2003consumer}
 {\sc Pavlou, P.~A.}
 \newblock Consumer acceptance of electronic commerce: Integrating trust and
@@ -224,6 +288,13 @@
 \newblock {\em The perception and measurement of human-robot trust}.
 \newblock PhD thesis, University of Central Florida Orlando, Florida, 2013.
 
+\bibitem{seong2008impact}
+{\sc Seong, Y., and Bisantz, A.~M.}
+\newblock The impact of cognitive feedback on judgment performance and trust
+  with decision aids.
+\newblock {\em International Journal of Industrial Ergonomics 38}, 7 (2008),
+  608--625.
+
 \bibitem{TeslaFatalAccident}
 {\sc SINGHVI, A.}
 \newblock Inside the self-driving tesla fatal accident.
@@ -240,6 +311,13 @@
 {\sc Trust.}
 \newblock {\em Definition of trust in English:}.
 \newblock oxford-dictionaries., 2016.
+
+\bibitem{uggirala2004measurement}
+{\sc Uggirala, A., Gramopadhye, A.~K., Melloy, B.~J., and Toler, J.~E.}
+\newblock Measurement of trust in complex and dynamic systems using a
+  quantitative approach.
+\newblock {\em International Journal of Industrial Ergonomics 34}, 3 (2004),
+  175--186.
 
 \bibitem{wagner2015philosophy}
 {\sc Wagner, M., and Koopman, P.}

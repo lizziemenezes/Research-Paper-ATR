@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.9)  26 FEB 2017 18:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.9)  12 MAR 2017 16:56
 entering extended mode
 **./ShervinTrustSurvey.tex
 (ShervinTrustSurvey.tex
@@ -449,12 +449,12 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 95.
+LaTeX Font Info:    Try loading font information for U+msa on input line 96.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 95.
+LaTeX Font Info:    Try loading font information for U+msb on input line 96.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -466,13 +466,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <Figures/EvolutionOfAutomation.png, id=11, 803.0pt x 615.29875pt>
 File: Figures/EvolutionOfAutomation.png Graphic file (type png)
  <use Figures/EvolutionOfAutomation.png>
-Package pdftex.def Info: Figures/EvolutionOfAutomation.png used on input line 126.
+Package pdftex.def Info: Figures/EvolutionOfAutomation.png used on input line 127.
 (pdftex.def)             Requested size: 347.12354pt x 265.991pt.
  [2 <./Figures/EvolutionOfAutomation.png (PNG copy)>] [3] <Figures/3robots.jpg, id=20, 426.59375pt x 207.77625pt>
 File: Figures/3robots.jpg Graphic file (type jpg)
 
 <use Figures/3robots.jpg>
-Package pdftex.def Info: Figures/3robots.jpg used on input line 153.
+Package pdftex.def Info: Figures/3robots.jpg used on input line 154.
 (pdftex.def)             Requested size: 255.95822pt x 124.6667pt.
 
 Underfull \vbox (badness 5105) has occurred while \output is active []
@@ -481,236 +481,248 @@ Underfull \vbox (badness 5105) has occurred while \output is active []
 <Figures/TrustFactors.png, id=27, 1003.49907pt x 668.4975pt>
 File: Figures/TrustFactors.png Graphic file (type png)
  <use Figures/TrustFactors.png>
-Package pdftex.def Info: Figures/TrustFactors.png used on input line 178.
+Package pdftex.def Info: Figures/TrustFactors.png used on input line 184.
 (pdftex.def)             Requested size: 347.12354pt x 231.24391pt.
+
+Underfull \vbox (badness 1502) has occurred while \output is active []
+
  [6 <./Figures/TrustFactors.png>]
 Underfull \vbox (badness 2158) has occurred while \output is active []
 
- [7] [8] [9] [10] [11]
+ [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8] [9]
 Underfull \vbox (badness 5105) has occurred while \output is active []
 
- [12]
+ [10] [11] [12]
+Underfull \vbox (badness 2158) has occurred while \output is active []
+
+ [13]
+Underfull \vbox (badness 5105) has occurred while \output is active []
+
+ [14]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¶ in font cmr10!
 
 Underfull \vbox (badness 5105) has occurred while \output is active []
 
- [13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [15]
+Underfull \vbox (badness 5105) has occurred while \output is active []
 
- [14]
-<Figures/ECommerceTrust.png, id=58, 963.6pt x 542.025pt>
+ [16]
+<Figures/ECommerceTrust.png, id=64, 963.6pt x 542.025pt>
 File: Figures/ECommerceTrust.png Graphic file (type png)
  <use Figures/ECommerceTrust.png>
-Package pdftex.def Info: Figures/ECommerceTrust.png used on input line 266.
+Package pdftex.def Info: Figures/ECommerceTrust.png used on input line 288.
 (pdftex.def)             Requested size: 347.12354pt x 195.2529pt.
- [15] [16 <./Figures/ECommerceTrust.png>]
-Underfull \hbox (badness 1565) in paragraph at lines 301--302
+ [17 <./Figures/ECommerceTrust.png>]
+Underfull \hbox (badness 1565) in paragraph at lines 327--328
 \OT1/cmr/m/n/10 por-tant role as well as
  []
 
 
-Underfull \hbox (badness 4765) in paragraph at lines 301--302
+Underfull \hbox (badness 4765) in paragraph at lines 327--328
 \OT1/cmr/m/n/10 trust, and The un-pre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
 []|\OT1/cmr/m/n/10 Computer
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
 \OT1/cmr/m/n/10 sim-u-la-tion
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 302--303
+Underfull \hbox (badness 2846) in paragraph at lines 328--329
 \OT1/cmr/m/n/10 based on a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-\OT1/cmr/m/n/10 fire-fight-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
-[]|\OT1/cmr/m/n/10 Military,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
-\OT1/cmr/m/n/10 Haz-ardous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
-\OT1/cmr/m/n/10 en-vi-ron-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
-[]|\OT1/cmr/m/n/10 Mathematical def-i-ni-tion
- []
-
-
-Underfull \hbox (badness 7486) in paragraph at lines 306--307
-\OT1/cmr/m/n/10 for trust, where trust
- []
-
-
-Underfull \hbox (badness 3058) in paragraph at lines 306--307
-\OT1/cmr/m/n/10 is a vari-able T. Trust
- []
-
-
-Underfull \hbox (badness 4156) in paragraph at lines 306--307
-\OT1/cmr/m/n/10 or mech-a-nism that al-
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 307--308
-[]|\OT1/cmr/m/n/10 trust prop-a-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 308--309
-[]|\OT1/cmr/m/n/10 Math-based
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 308--309
-\OT1/cmr/m/n/10 trust prop-a-
- []
-
-
-Underfull \hbox (badness 2221) in paragraph at lines 312--313
-[]|\OT1/cmr/m/n/10 N/A (meta-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 317--318
-[]|\OT1/cmr/m/n/10 visually
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 317--318
-\OT1/cmr/m/n/10 im-paired
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
-[]|\OT1/cmr/m/n/10 Improving
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
-[]|\OT1/cmr/m/n/10 X-ray
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
-\OT1/cmr/m/n/10 screen-ing
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 326--327
-[]|\OT1/cmr/m/n/10 Etiquette af-fects hu-man
- []
-
-
-Underfull \hbox (badness 1052) in paragraph at lines 327--328
-[]|\OT1/cmr/m/n/10 Flight sim-u-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 328--329
+\OT1/cmr/m/n/10 fire-fight-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+[]|\OT1/cmr/m/n/10 Military,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+\OT1/cmr/m/n/10 Haz-ardous
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+\OT1/cmr/m/n/10 en-vi-ron-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+[]|\OT1/cmr/m/n/10 Mathematical def-i-ni-tion
+ []
+
+
+Underfull \hbox (badness 7486) in paragraph at lines 332--333
+\OT1/cmr/m/n/10 for trust, where trust
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 332--333
+\OT1/cmr/m/n/10 is a vari-able T. Trust
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 332--333
+\OT1/cmr/m/n/10 or mech-a-nism that al-
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 333--334
+[]|\OT1/cmr/m/n/10 trust prop-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+[]|\OT1/cmr/m/n/10 Math-based
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 334--335
+\OT1/cmr/m/n/10 trust prop-a-
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 338--339
+[]|\OT1/cmr/m/n/10 N/A (meta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+[]|\OT1/cmr/m/n/10 visually
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+\OT1/cmr/m/n/10 im-paired
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+[]|\OT1/cmr/m/n/10 Improving
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+[]|\OT1/cmr/m/n/10 X-ray
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+\OT1/cmr/m/n/10 screen-ing
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 352--353
+[]|\OT1/cmr/m/n/10 Etiquette af-fects hu-man
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 353--354
+[]|\OT1/cmr/m/n/10 Flight sim-u-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 []|\OT1/cmr/m/n/10 Impact of
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 328--329
+Underfull \hbox (badness 1845) in paragraph at lines 354--355
 \OT1/cmr/m/n/10 eti-quette on
  []
 
 
-Underfull \hbox (badness 8094) in paragraph at lines 332--333
+Underfull \hbox (badness 8094) in paragraph at lines 358--359
 \OT1/cmr/m/n/10 ter Ex-perts
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--334
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 []|\OT1/cmr/m/n/10 Trust mea-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
 []|\OT1/cmr/m/n/10 YSI
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
 \OT1/cmr/m/n/10 EcoMap-per
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
 \OT1/cmr/m/n/10 au-tonomous
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
 \OT1/cmr/m/n/10 un-der-wa-ter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
 []|\OT1/cmr/m/n/10 Semi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
 \OT1/cmr/m/n/10 autonomous
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
 []|\OT1/cmr/m/n/10 Most con-sumers like
  []
 
 
-Underfull \hbox (badness 3503) in paragraph at lines 342--343
+Underfull \hbox (badness 3503) in paragraph at lines 368--369
 \OT1/cmr/m/n/10 SDC's. Dif-fer-ent peo-ple
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--344
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
 []|\OT1/cmr/m/n/10 Survey
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 343--344
+Underfull \hbox (badness 2846) in paragraph at lines 369--370
 \OT1/cmr/m/n/10 based on a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--344
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
 \OT1/cmr/m/n/10 10 minute
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
 []|\OT1/cmr/m/n/10 Perception
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
 \OT1/cmr/m/n/10 of user's
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
 \OT1/cmr/m/n/10 trust in
  []
 
@@ -718,189 +730,189 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 7540) in paragraph at lines 348--349
+Underfull \hbox (badness 7540) in paragraph at lines 374--375
 []|\OT1/cmr/m/n/10 Surveys us-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
 \OT1/cmr/m/n/10 ing Sur-vey
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
 \OT1/cmr/m/n/10 Ama-zons
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
 \OT1/cmr/m/n/10 Me-chan-i-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
 []|\OT1/cmr/m/n/10 Trust in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
-\OT1/cmr/m/n/10 Au-to-mated
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
-\OT1/cmr/m/n/10 Cars and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
-\OT1/cmr/m/n/10 Med-i-cal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
-\OT1/cmr/m/n/10 Di-ag-no-sis
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
-[]|\OT1/cmr/m/n/10 The ge-o-graphic po-si-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
-\OT1/cmr/m/n/10 tion-ing and ed-u-ca-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 353--354
-[]|\OT1/cmr/m/n/10 Internet-
- []
-
-
-Underfull \hbox (badness 6125) in paragraph at lines 357--358
-\OT1/cmr/m/n/10 im-prov-ing will in-crease
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
-\OT1/cmr/m/n/10 of ex-ist-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
-[]|\OT1/cmr/m/n/10 Safety for
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
-\OT1/cmr/m/n/10 SDC soft-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
-\OT1/cmr/m/n/10 ware based
- []
-
-
-Underfull \hbox (badness 1776) in paragraph at lines 359--360
-\OT1/cmr/m/n/10 on 'fal-si-fi-ca-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
-\OT1/cmr/m/n/10 u-la-tor by
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 364--365
-[]|\OT1/cmr/m/n/10 The un-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 364--365
-\OT1/cmr/m/n/10 cer-tainty
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 364--365
-\OT1/cmr/m/n/10 of SDCs
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 364--365
-\OT1/cmr/m/n/10 in var-i-ous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 370--371
-[]|\OT1/cmr/m/n/10 Internet
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
-[]|\OT1/cmr/m/n/10 Trust in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
-\OT1/cmr/m/n/10 au-tonomous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
-\OT1/cmr/m/n/10 and semi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
-\OT1/cmr/m/n/10 autonomous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
-\OT1/cmr/m/n/10 auto pi-lot
- []
-
-
-Underfull \hbox (badness 2418) in paragraph at lines 375--376
-[]|\OT1/cmr/m/n/10 Data col-lec-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 375--376
+\OT1/cmr/m/n/10 Au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
+\OT1/cmr/m/n/10 Cars and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
+\OT1/cmr/m/n/10 Med-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
+\OT1/cmr/m/n/10 Di-ag-no-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--379
+[]|\OT1/cmr/m/n/10 The ge-o-graphic po-si-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--379
+\OT1/cmr/m/n/10 tion-ing and ed-u-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+[]|\OT1/cmr/m/n/10 Internet-
+ []
+
+
+Underfull \hbox (badness 6125) in paragraph at lines 383--384
+\OT1/cmr/m/n/10 im-prov-ing will in-crease
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+\OT1/cmr/m/n/10 of ex-ist-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+[]|\OT1/cmr/m/n/10 Safety for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+\OT1/cmr/m/n/10 SDC soft-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+\OT1/cmr/m/n/10 ware based
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 385--386
+\OT1/cmr/m/n/10 on 'fal-si-fi-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+\OT1/cmr/m/n/10 u-la-tor by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+[]|\OT1/cmr/m/n/10 The un-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+\OT1/cmr/m/n/10 cer-tainty
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+\OT1/cmr/m/n/10 of SDCs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+\OT1/cmr/m/n/10 in var-i-ous
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+[]|\OT1/cmr/m/n/10 Internet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+[]|\OT1/cmr/m/n/10 Trust in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+\OT1/cmr/m/n/10 au-tonomous
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+\OT1/cmr/m/n/10 and semi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+\OT1/cmr/m/n/10 autonomous
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+\OT1/cmr/m/n/10 auto pi-lot
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 401--402
+[]|\OT1/cmr/m/n/10 Data col-lec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 \OT1/cmr/m/n/10 ex-per-i-men-tal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--377
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
 []|\OT1/cmr/m/n/10 Autopilot
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--377
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
 \OT1/cmr/m/n/10 per-son-al-iza-
  []
 
 
-Overfull \hbox (31.67651pt too wide) in alignment at lines 295--382
+Overfull \hbox (31.67651pt too wide) in alignment at lines 321--408
 [] [] [] [] []
  []
 
-
-Underfull \vbox (badness 10000) detected at line 382
+[18]
+Underfull \vbox (badness 10000) detected at line 408
  []
 
-[17] (ShervinTrustSurvey.bbl [18]
+[19] (ShervinTrustSurvey.bbl [20]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ” in font cmr9!
- [19] [20]) [21] (ShervinTrustSurvey.aux) ) 
+ [21] [22]) [23] (ShervinTrustSurvey.aux) ) 
 Here is how much of TeX's memory you used:
- 4691 strings out of 493334
- 59277 string characters out of 3139246
- 179501 words of memory out of 3000000
- 8084 multiletter control sequences out of 15000+200000
+ 4703 strings out of 493334
+ 59513 string characters out of 3139246
+ 179549 words of memory out of 3000000
+ 8096 multiletter control sequences out of 15000+200000
  8630 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,8n,35p,2144b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -911,9 +923,9 @@ s/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl
 10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmtt9.pfb>
-Output written on ShervinTrustSurvey.pdf (21 pages, 463520 bytes).
+Output written on ShervinTrustSurvey.pdf (23 pages, 475552 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
+ 122 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
