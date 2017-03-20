@@ -22,6 +22,7 @@
 \usepackage[table]{xcolor}
 \usepackage{multirow}
 \usepackage{longtable}
+\usepackage[letterpaper,hmargin=1.0in,vmargin=1.0in]{geometry} 
 %\usepackage{titlesec}
 
 \setcounter{secnumdepth}{5}
@@ -122,7 +123,7 @@ Merriam-Webster dictionary defines `autonomy' as  ``The quality or state of bein
 
 We need to narrow down this definition, as this it is very broad and applies to many different areas and concepts. Perhaps the term that we are looking for is `autonomous robots.' Autonomous robots are defined as, ``intelligent machines capable of performing tasks in the world by themselves, without explicit human control.'' \cite{Bekey:2005:ARB:1088950}
 
-\begin{figure}
+\begin{figure} [h!]
     \centering
         \includegraphics[width=\textwidth]{Figures/EvolutionOfAutomation.png}
     \caption{Evolution of Automation \cite{CyberSecurityInIndustry}}
@@ -141,7 +142,7 @@ In this section, we will examine, and categorize previous studies that are in th
 \subsection{Trust Between Humans and Autonomous Systems}
 
 \subsubsection{Human-Robots}
- the  currently, the level of trust between humans and autonomous systems is very low. That means in dangerous situations, humans tend not to let fully autonomous systems take control. A study that explores the low level of human-robot trust is done by Daniel Stormont (2008) \cite{stormont2008analyzing}. In this study, the factors that affect the trust between humans and robotic systems are analyzed. The study concluded that it is not just `trust' that determines the usability, but `confidence' also plays a significant role. One of the reasons the level of confidence in autonomous systems is very low is due to their low level of reliability. As cited in this paper, ``A 2004 study of commercially available ruggedized robots operating under
+ Currently, the level of trust between humans and autonomous systems is very low. That means in dangerous situations, humans tend not to let fully autonomous systems take control. A study that explores the low level of human-robot trust is done by Daniel Stormont (2008) \cite{stormont2008analyzing}. In this study, the factors that affect the trust between humans and robotic systems are analyzed. The study concluded that it is not just `trust' that determines the usability, but `confidence' also plays a significant role. One of the reasons the level of confidence in autonomous systems is very low is due to their low level of reliability. As cited in this paper, ``A 2004 study of commercially available ruggedized robots operating under
 field conditions showed a mean-time-between-failures
 (MTBF) of 12.26 hours and an availability rate of 37\%''\cite{carlson2004investigation}. This means, that if the robotic systems reduce their failure rate, their reliability will increase; thus, the human confidence and trust in them will increase. Of course, this study was done in 2004. It is clear that due to recent advancements in robotic systems, the MTBF should be less than 37\%. For example, when the first fatal car accident was reported for Tesla self-driving cars, it became a topic of discussion in the media. Although these accidents are rare, companies like Tesla and Google learn the nature of the crash and work on reducing the failure rate in the future models. \cite{TeslaFatalAccident}
 
@@ -149,7 +150,7 @@ In a study from 2004, Robin Murphy and his team introduced how rescue robots may
 
 In his research, Mr.Stormont (2008) also believes that another factor affecting the trust between humans and fully autonomous systems would be their unpredictability. It was argued that in various hazardous circumstances such as battlefields and rescue missions, the unpredictability of robots becomes a critical problem for human supervisors. It has been argued that the autonomous nature of robots and their decisions making could be a positive trait, since they could react faster to certain dangers compared to humans, but the problem arises when life and death of humans will depend on the choices of a robot; Questions such as ``should life and death decisions be made
 by an autonomous system?'' will emerge. In the 2008 study, a simulation of robots assisting firefighters in a hazardous fire situation was discussed. It was concluded that even though firefighters did not initially trust these helper robots, as the mission went on, and they got tired, their reliance and trust in the robots increased, as they helped them extinguish the fire. 
-\begin{figure}
+\begin{figure} [h!]
     \centering
         \includegraphics[scale=0.6]{Figures/3robots.jpg}
     \caption{Example of autonomous and semi-autonomous robots used in military \cite{autonomousArmedRobots}}
@@ -173,13 +174,13 @@ definition, acquisition is not necessarily an 'increase' of T.''. This study pro
 \end{enumerate}
 
 
-An experiment done by Y Seong and his team in 2008 analyzed the methods in which people use to create judgment amongst complex systems\cite{seong2008impact}.  To accurately investigate this, the participants were put through training that would train them on measuring the accuracy and performance of air crafts.  Then, the participants were asked to analyze air crafts and rate them as friendly or hostile based on measured speeds, altitude, range, and time in the air.  The results that users stipulated were relatively accurate post training and demonstrated that there is a correlation between positive judgment readings after users knew what they were looking for in complex systems.
+An experiment done by Y Seong and his team in 2008 analyzed the methods in which people use to create judgment amongst complex systems\cite{seong2008impact}. To accurately investigate this, the participants were put through training that would train them on measuring the accuracy and performance of air crafts.  Then, the participants were asked to analyze aircraft and rate them as friendly or hostile based on measured speeds, altitude, range, and time in the air. The results that users stipulated were relatively accurate post training and demonstrated that there is a correlation between positive judgment readings after users knew what they were looking for in complex systems.
 
 In 1999, Neville Moray and T. Idnagaekri began analyzing how trust in autonomous systems lead to fewer supervision\cite{moray1999laboratory}.  They found that as the user becomes more reliant on the system, a decrease in monitoring occurs. The study brought attention to users overly trusting systems, which could lead to malpractice. 
 
 In a 2011 paper, Peter A. Hancock et al. provided a comprehensive analysis of factors affecting trust in ``Human-Robot Interaction (HRI)'' \cite{hancock2011meta}. This study categorizes factors that influence the trust in HRI into three different categories: human related, Robot related, and environmental variables, and each category has subcategories. Human-related factors include training, expertise, situational awareness, demographics, etc. Similarly, robot-related factors are behavior, dependability, reliability, the level of automation, failure rates, false alarms, and transparency, and attribute based factors such as location, personality, adaptability, robot type, and Anthropomorphism (having human traits). Environmental factors include teamwork, culture, communication, shared mental models, task type, task complexity, multi-tasking, physical environment. This paper discovered that robot performance has the biggest impact on trust in the context of HRI, and tweaking the robot performance has a direct impact on trust. For example, if an autonomous robot improves its performance, the value of trust will increase.
 
-\begin{figure}
+\begin{figure} [h!]
     \centering
         \includegraphics[width=\textwidth]{Figures/TrustFactors.png}
     \caption{Trust factors identified by Hancock \cite{hancock2011meta}}
@@ -283,7 +284,7 @@ Research, conducted by Ann M.  Bisantz and Younho Seong in 2001, has shown how u
 
 Many papers in the domain of trust and HRI suggest that the users' subjective view of new technologies and their level of acceptance of them plays a significant role in the usage and popularity of such technologies. E-Commerce is one of the examples of fast growing technologies that used to be less popular (back in the 1990's) perhaps due to lack of trust in them, or fear of fraud. Nowadays, E-Commerce giants such as eBay and Amazon are widely used and accepted among consumers around the world. In a study, Paul Pavlou investigated the consumer acceptance and trust in E-Commerce and proposed a theoretical model that aims to reduce the user's uncertainty of buying and selling products online by integrating trust and ``perceived risk'' \cite{pavlou2003consumer}. To develop this model, Pavlou utilized two important concepts of Theory of Reasoned Action (TRA) and Technology Acceptance Model (TAM) to mathematically measure the user's acceptance and their online behaviour when interacting with Business to Consumer  (B2C) E-Commerces. In the described model, several factors affect the amount of users' trust in the E-Commerce platform they want to use to sell or buy products. These factors include ``Percieved Ease of Use'', ``Percieved Usefulness'', and ``Percieved Risk". If a user has the correct amount of the described elements, their trust in the product will increase. Thus, they will be more likely to conduct a transaction. Although this model is aimed to improve the users' trust in E-Commerce, we argue that the concepts discussed in this paper are very similar to the studies conducted on trust and HRI. For instance, if a consumer is reflecting on whether they should purchase a new autonomous vehicle or not, they would assess the vehicle's ease of use -how easy it is to just not drive during crazy rush hours- and its usefulness, and the risks associated with driving autonomous vehicles.
 
-\begin{figure}
+\begin{figure} [h!]
     \centering
         \includegraphics[width=\textwidth]{Figures/ECommerceTrust.png}
     \caption{Trust model described in \cite{pavlou2003consumer}}
@@ -308,105 +309,164 @@ At The European Organization for the Safety of Air Navigation (\cite{kelly2003gu
 \end{itemize}
 
 
-\section{Sum}
+\section{Summary table}
 
 %\begin{table}[]
 %\centering
 %\caption{My caption}
 %\label{my-label}
+%\begin{center}
+%\setlength\LTleft{0pt}
+%\setlength\LTright{0pt}
+%%\begin{longtable}{@{\extracolsep{\fill}}|c|c|l|c|c}
+%\begin{longtable}{|c|c|p{4cm}|p{2cm}|p{2cm}|}
+%\hline
+%\multicolumn{5}{|c|}{List of Studies}                                                                                               \\ \hline
+%Category                        & Study & \multicolumn{1}{c|}{Summary}    & \multicolumn{1}{c|}{Technology} & \multicolumn{1}{c|}{Focus} \\ \hline
+%\multirow{8}{*}{Human - Robots} 
+    %&     
+    %&  
+    %&                         
+    %& Military, Hazardous environments
+    %\\ \cline{2-5} 
+    %& \cite{esfandiari2001agents}     
+    %& Mathematical definition for trust, where trust is a variable T. Trust acquisition is the process or mechanism that allows the calculation and update of 'T'
+    %& trust propagation model                      
+    %& Math-based trust propagation. Trust acquisition
+    %\\ \cline{2-5} 
+    %& \cite{hancock2011meta}
+    %& The performance of the robot has the biggest impact on trust in the context of HRI
+    %& N/A (meta-analysis)
+    %& HRI
+    %\\ \cline{2-5}
+    %&  \cite{penders2013enhancing}
+    %& In order to enhance trust in HRI, a number of design choices need to be made
+    %& visually impaired person and a guide dog
+    %& Improving trust in HRI
+    %\\ \cline{2-5} 
+    %& \cite{merritt2008not}
+    %& Different people have different levels of trust toward robot despite its constancy
+    %& X-ray screening simulation             
+    %& User perceptions of trust
+    %\\ \cline{2-5} 
+    %& \cite{parasuraman2004trust}
+    %& Etiquette affects human trust and the reliability of autonomous robots
+    %& Flight simulator
+    %& Impact of etiquette on trust
+    %\\ \cline{2-5} 
+    %& \cite{yagoda2012you}
+    %& Created the HRI `Trust Measuring Tool'
+    %& Subject Matter Experts (SMEs)                
+    %& Trust measurement
+    %\\ \cline{2-5} 
+    %& \cite{wang2014human}
+    %& If the human trusts the robot, its performance increases
+    %& YSI EcoMapper autonomous underwater robot         
+    %& Semi-autonomous mutual trust
+    %\\ \hline
+%\multirow{5}{*}{Human SDC}      
+    %& \cite{howard2014public}  
+    %& Most consumers like SDC's. Different people have different trust issues                     
+    %& Survey based on a 10 minute video                        
+    %& Perception of user's trust in SDCs
+    %\\ \cline{2-5} 
+    %& \cite{carlson2014identifying}
+    %& Most people tend to prioritize safety, accuracy, and failure rates when trusting an autonomous system                       
+    %& Surveys using  Survey Monkey and Amazon’s Mechanical Turk                  
+    %& Trust in Automated Cars and Medical Diagnosis Systems               
+    %\\ \cline{2-5} 
+    %& \cite{kyriakidis2015public}
+    %& The geographic positioning and education of consumers affects the premises of their trust 
+    %& Internet-based survey                    
+    %& User willingness to buy SDCs
+    %\\ \cline{2-5} 
+    %& \cite{wagner2015philosophy}    
+    %& Users testing; relying and improving will increase their trust in the robot 
+    %& N/A (survey of existing methods)         
+    %& Safety for SDC software based on 'falsificationism'
+    %\\ \cline{2-5} 
+    %& \cite{helldin2013presenting}
+    %& If people know about the problems of a robot, they will probably override it to avoid them            
+    %& Driving Simulator by Volvo  
+    %& The uncertainty of SDCs in various scenarios            
+    %\\ \hline
+    %
+    %\multirow{2}{*}{Human-Autopilot Modes}    
+    %& \cite{winter2015indian}
+    %& Culture affects trust                        
+    %& Internet based survey               
+    %& Trust in autonomous and semi-autonomous auto pilot systems        
+    %\\ \cline{2-5} 
+    %& \cite{butakov2015driving}
+    %& People have an easier time trusting familiar things.                   
+    %& Data collection from an experimental SDC
+    %& Autopilot personalization
+    %\\ \hline
+    %
+%
+%%\end{tabular}
+%\end{longtable}
+%\end{center}
+
+\begin{footnotesize}
 \begin{center}
-\setlength\LTleft{0pt}
-\setlength\LTright{0pt}
-%\begin{longtable}{@{\extracolsep{\fill}}|c|c|l|c|c}
-\begin{longtable}{|c|c|p{4cm}|p{2cm}|p{2cm}|}
-\hline
-\multicolumn{5}{|c|}{List of Studies}                                                                                               \\ \hline
-Category                        & Study & \multicolumn{1}{c|}{Summary}    & \multicolumn{1}{c|}{Technology} & \multicolumn{1}{c|}{Focus} \\ \hline
-\multirow{8}{*}{Human - Robots} 
-    & \cite{stormont2008analyzing}    
-    &  Confidence plays an important role as well as trust,\ and The unpredictability of the robot affects trust  
-    & Computer simulation based on a firefighting scenario                        
-    & Military, Hazardous environments
-    \\ \cline{2-5} 
-    & \cite{esfandiari2001agents}     
-    & Mathematical definition for trust, where trust is a variable T. Trust acquisition is the process or mechanism that allows the calculation and update of 'T'
-    & trust propagation model                      
-    & Math-based trust propagation. Trust acquisition
-    \\ \cline{2-5} 
-    & \cite{hancock2011meta}
+    \begin{tabular}{ | c | p{7cm} | p{5cm} | p{4cm} |}
+		\hline
+    \multicolumn{4}{ |c| }{Human-Robot Trust} \\
+		\hline
+    Study & Summary & Technology & Focus \\ \hline
+    \cite{stormont2008analyzing} 
+		& Confidence plays an important role as well as trust, and The unpredictability of the robot affects trust
+		& Computer simulation based on a firefighting scenario 
+		& Military, Hazardous environments \\ \hline
+		
+		\cite{murphy2004robot}
+		& Success of the rescue robots depend on the trust of the victim in which they are assisting
+		& N/A (Survey)
+		& Rescue robots \\ \hline
+		
+		\cite{seong2008impact}
+		& Participants were asked to analyze aircraft and rate them as friendly or hostile based on measured speeds
+		& Simulated radar
+		& User trust \& judgment in aircraft \\ \hline
+    
+		\cite{esfandiari2001agents} 
+		& Mathematical definition for trust, where trust is a variable T. Trust acquisition is the process or mechanism that allows the calculation and update of 'T' 
+		& Trust Propagation Model 
+		& Math-based trust propagation. Trust acquisition \\ \hline
+    
+		\cite{hancock2011meta}
     & The performance of the robot has the biggest impact on trust in the context of HRI
     & N/A (meta-analysis)
-    & HRI
-    \\ \cline{2-5}
-    &  \cite{penders2013enhancing}
-    & In order to enhance trust in HRI, a number of design choices need to be made
-    & visually impaired person and a guide dog
-    & Improving trust in HRI
-    \\ \cline{2-5} 
-    & \cite{merritt2008not}
+    & HRI \\ \hline
+		
+		\cite{merritt2008not}
     & Different people have different levels of trust toward robot despite its constancy
     & X-ray screening simulation             
-    & User perceptions of trust
-    \\ \cline{2-5} 
-    & \cite{parasuraman2004trust}
+    & User perceptions of trust \\ \hline
+		
+		\cite{penders2013enhancing}
+    & In order to enhance trust in HRI, a number of design choices need to be made
+    & visually impaired person and a guide dog
+    & Improving trust in HRI \\ \hline
+		
+		\cite{parasuraman2004trust}
     & Etiquette affects human trust and the reliability of autonomous robots
     & Flight simulator
-    & Impact of etiquette on trust
-    \\ \cline{2-5} 
-    & \cite{yagoda2012you}
+    & Impact of etiquette on trust \\ \hline
+		
+		\cite{yagoda2012you}
     & Created the HRI `Trust Measuring Tool'
     & Subject Matter Experts (SMEs)                
-    & Trust measurement
-    \\ \cline{2-5} 
-    & \cite{wang2014human}
+    & Trust measurement \\ \hline
+		
+		\cite{wang2014human}
     & If the human trusts the robot, its performance increases
     & YSI EcoMapper autonomous underwater robot         
-    & Semi-autonomous mutual trust
-    \\ \hline
-\multirow{5}{*}{Human SDC}      
-    & \cite{howard2014public}  
-    & Most consumers like SDC's. Different people have different trust issues                     
-    & Survey based on a 10 minute video                        
-    & Perception of user's trust in SDCs
-    \\ \cline{2-5} 
-    & \cite{carlson2014identifying}
-    & Most people tend to prioritize safety, accuracy, and failure rates when trusting an autonomous system                       
-    & Surveys using  Survey Monkey and Amazon’s Mechanical Turk                  
-    & Trust in Automated Cars and Medical Diagnosis Systems               
-    \\ \cline{2-5} 
-    & \cite{kyriakidis2015public}
-    & The geographic positioning and education of consumers affects the premises of their trust 
-    & Internet-based survey                    
-    & User willingness to buy SDCs
-    \\ \cline{2-5} 
-    & \cite{wagner2015philosophy}    
-    & Users testing; relying and improving will increase their trust in the robot 
-    & N/A (survey of existing methods)         
-    & Safety for SDC software based on 'falsificationism'
-    \\ \cline{2-5} 
-    & \cite{helldin2013presenting}
-    & If people know about the problems of a robot, they will probably override it to avoid them            
-    & Driving Simulator by Volvo  
-    & The uncertainty of SDCs in various scenarios            
-    \\ \hline
-    
-    \multirow{2}{*}{Human-Autopilot Modes}    
-    & \cite{winter2015indian}
-    & Culture affects trust                        
-    & Internet based survey               
-    & Trust in autonomous and semi-autonomous auto pilot systems        
-    \\ \cline{2-5} 
-    & \cite{butakov2015driving}
-    & People have an easier time trusting familiar things.                   
-    & Data collection from an experimental SDC
-    & Autopilot personalization
-    \\ \hline
-    
-e
-
-%\end{tabular}
-\end{longtable}
+    & Semi-autonomous mutual trust \\ \hline
+    \end{tabular}
 \end{center}
+\end{footnotesize}
 
 \section{Open Problems, Future Directions and Concluding remarks}
 %\bibliographystyle{abbrv}

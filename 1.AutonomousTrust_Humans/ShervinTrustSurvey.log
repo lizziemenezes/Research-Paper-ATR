@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.9)  12 MAR 2017 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.9)  19 MAR 2017 21:27
 entering extended mode
 **./ShervinTrustSurvey.tex
 (ShervinTrustSurvey.tex
@@ -378,44 +378,68 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@tables=\count150
 \c@LT@chunks=\count151
 \LT@p@ftn=\toks31
-) (ShervinTrustSurvey.aux)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count152
+\Gm@cntv=\count153
+\c@Gm@tempcnt=\count154
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks32
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (ShervinTrustSurvey.aux)
 \openout1 = `ShervinTrustSurvey.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count152
-\scratchdimen=\dimen151
+\scratchcounter=\count155
+\scratchdimen=\dimen159
 \scratchbox=\box65
-\nofMPsegments=\count153
-\nofMParguments=\count154
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count155
-\MPscratchDim=\dimen152
-\MPnumerator=\count156
-\makeMPintoPDFobject=\count157
-\everyMPtoPDFconversion=\toks33
+\nofMPsegments=\count156
+\nofMParguments=\count157
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count158
+\MPscratchDim=\dimen160
+\MPnumerator=\count159
+\makeMPintoPDFobject=\count160
+\everyMPtoPDFconversion=\toks34
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -449,483 +473,135 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 96.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-28.0pt
+* \headheight=12.0pt
+* \headsep=16.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=90.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+LaTeX Font Info:    Try loading font information for U+msa on input line 97.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 96.
+LaTeX Font Info:    Try loading font information for U+msb on input line 97.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+<Figures/EvolutionOfAutomation.png, id=1, 803.0pt x 615.29875pt>
+File: Figures/EvolutionOfAutomation.png Graphic file (type png)
+ <use Figures/EvolutionOfAutomation.png>
+Package pdftex.def Info: Figures/EvolutionOfAutomation.png used on input line 128.
+(pdftex.def)             Requested size: 469.75502pt x 359.9624pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [1
 
 
 
-{C:/Users/Shervin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<Figures/EvolutionOfAutomation.png, id=11, 803.0pt x 615.29875pt>
-File: Figures/EvolutionOfAutomation.png Graphic file (type png)
- <use Figures/EvolutionOfAutomation.png>
-Package pdftex.def Info: Figures/EvolutionOfAutomation.png used on input line 127.
-(pdftex.def)             Requested size: 347.12354pt x 265.991pt.
- [2 <./Figures/EvolutionOfAutomation.png (PNG copy)>] [3] <Figures/3robots.jpg, id=20, 426.59375pt x 207.77625pt>
+{C:/Users/Shervin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <./Figures/EvolutionOfAutomation.png (PNG copy)
+>] <Figures/3robots.jpg, id=17, 426.59375pt x 207.77625pt>
 File: Figures/3robots.jpg Graphic file (type jpg)
-
-<use Figures/3robots.jpg>
-Package pdftex.def Info: Figures/3robots.jpg used on input line 154.
+ <use Figures/3robots.jpg>
+Package pdftex.def Info: Figures/3robots.jpg used on input line 155.
 (pdftex.def)             Requested size: 255.95822pt x 124.6667pt.
 
-Underfull \vbox (badness 5105) has occurred while \output is active []
 
- [4] [5 <./Figures/3robots.jpg>]
-<Figures/TrustFactors.png, id=27, 1003.49907pt x 668.4975pt>
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3] <Figures/TrustFactors.png, id=21, 1003.49907pt x 668.4975pt>
 File: Figures/TrustFactors.png Graphic file (type png)
  <use Figures/TrustFactors.png>
-Package pdftex.def Info: Figures/TrustFactors.png used on input line 184.
-(pdftex.def)             Requested size: 347.12354pt x 231.24391pt.
+Package pdftex.def Info: Figures/TrustFactors.png used on input line 185.
+(pdftex.def)             Requested size: 469.75502pt x 312.93921pt.
 
-Underfull \vbox (badness 1502) has occurred while \output is active []
 
- [6 <./Figures/TrustFactors.png>]
-Underfull \vbox (badness 2158) has occurred while \output is active []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
- [7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8] [9]
-Underfull \vbox (badness 5105) has occurred while \output is active []
-
- [10] [11] [12]
-Underfull \vbox (badness 2158) has occurred while \output is active []
-
- [13]
-Underfull \vbox (badness 5105) has occurred while \output is active []
-
- [14]
+[4 <./Figures/3robots.jpg>] [5 <./Figures/TrustFactors.png>] [6] [7] [8] [9]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¶ in font cmr10!
-
-Underfull \vbox (badness 5105) has occurred while \output is active []
-
- [15]
-Underfull \vbox (badness 5105) has occurred while \output is active []
-
- [16]
-<Figures/ECommerceTrust.png, id=64, 963.6pt x 542.025pt>
+ [10] [11]
+<Figures/ECommerceTrust.png, id=48, 963.6pt x 542.025pt>
 File: Figures/ECommerceTrust.png Graphic file (type png)
  <use Figures/ECommerceTrust.png>
-Package pdftex.def Info: Figures/ECommerceTrust.png used on input line 288.
-(pdftex.def)             Requested size: 347.12354pt x 195.2529pt.
- [17 <./Figures/ECommerceTrust.png>]
-Underfull \hbox (badness 1565) in paragraph at lines 327--328
-\OT1/cmr/m/n/10 por-tant role as well as
+Package pdftex.def Info: Figures/ECommerceTrust.png used on input line 289.
+(pdftex.def)             Requested size: 469.75502pt x 264.23819pt.
+ [12 <./Figures/ECommerceTrust.png>]
+Underfull \hbox (badness 4454) in paragraph at lines 421--421
+[]|\OT1/cmr/m/n/9 Military, Haz-ardous en-vi-
  []
 
 
-Underfull \hbox (badness 4765) in paragraph at lines 327--328
-\OT1/cmr/m/n/10 trust, and The un-pre-
+Underfull \hbox (badness 2277) in paragraph at lines 450--451
+[]|\OT1/cmr/m/n/9 visually im-paired per-son and a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
-[]|\OT1/cmr/m/n/10 Computer
+Underfull \hbox (badness 10000) in paragraph at lines 466--466
+[]|\OT1/cmr/m/n/9 Semi-autonomous mu-tual
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
-\OT1/cmr/m/n/10 sim-u-la-tion
+Overfull \hbox (22.58466pt too wide) in paragraph at lines 413--468
+ [] 
  []
 
+(ShervinTrustSurvey.bbl
+Underfull \vbox (badness 2865) has occurred while \output is active []
 
-Underfull \hbox (badness 2846) in paragraph at lines 328--329
-\OT1/cmr/m/n/10 based on a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
-\OT1/cmr/m/n/10 fire-fight-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
-[]|\OT1/cmr/m/n/10 Military,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
-\OT1/cmr/m/n/10 Haz-ardous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
-\OT1/cmr/m/n/10 en-vi-ron-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
-[]|\OT1/cmr/m/n/10 Mathematical def-i-ni-tion
- []
-
-
-Underfull \hbox (badness 7486) in paragraph at lines 332--333
-\OT1/cmr/m/n/10 for trust, where trust
- []
-
-
-Underfull \hbox (badness 3058) in paragraph at lines 332--333
-\OT1/cmr/m/n/10 is a vari-able T. Trust
- []
-
-
-Underfull \hbox (badness 4156) in paragraph at lines 332--333
-\OT1/cmr/m/n/10 or mech-a-nism that al-
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 333--334
-[]|\OT1/cmr/m/n/10 trust prop-a-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
-[]|\OT1/cmr/m/n/10 Math-based
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 334--335
-\OT1/cmr/m/n/10 trust prop-a-
- []
-
-
-Underfull \hbox (badness 2221) in paragraph at lines 338--339
-[]|\OT1/cmr/m/n/10 N/A (meta-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 343--344
-[]|\OT1/cmr/m/n/10 visually
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 343--344
-\OT1/cmr/m/n/10 im-paired
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
-[]|\OT1/cmr/m/n/10 Improving
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
-[]|\OT1/cmr/m/n/10 X-ray
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
-\OT1/cmr/m/n/10 screen-ing
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 352--353
-[]|\OT1/cmr/m/n/10 Etiquette af-fects hu-man
- []
-
-
-Underfull \hbox (badness 1052) in paragraph at lines 353--354
-[]|\OT1/cmr/m/n/10 Flight sim-u-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
-[]|\OT1/cmr/m/n/10 Impact of
- []
-
-
-Underfull \hbox (badness 1845) in paragraph at lines 354--355
-\OT1/cmr/m/n/10 eti-quette on
- []
-
-
-Underfull \hbox (badness 8094) in paragraph at lines 358--359
-\OT1/cmr/m/n/10 ter Ex-perts
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
-[]|\OT1/cmr/m/n/10 Trust mea-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
-[]|\OT1/cmr/m/n/10 YSI
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
-\OT1/cmr/m/n/10 EcoMap-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
-\OT1/cmr/m/n/10 au-tonomous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
-\OT1/cmr/m/n/10 un-der-wa-ter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 364--365
-[]|\OT1/cmr/m/n/10 Semi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 364--365
-\OT1/cmr/m/n/10 autonomous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 368--369
-[]|\OT1/cmr/m/n/10 Most con-sumers like
- []
-
-
-Underfull \hbox (badness 3503) in paragraph at lines 368--369
-\OT1/cmr/m/n/10 SDC's. Dif-fer-ent peo-ple
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
-[]|\OT1/cmr/m/n/10 Survey
- []
-
-
-Underfull \hbox (badness 2846) in paragraph at lines 369--370
-\OT1/cmr/m/n/10 based on a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
-\OT1/cmr/m/n/10 10 minute
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 370--371
-[]|\OT1/cmr/m/n/10 Perception
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 370--371
-\OT1/cmr/m/n/10 of user's
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 370--371
-\OT1/cmr/m/n/10 trust in
- []
-
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-
-Underfull \hbox (badness 7540) in paragraph at lines 374--375
-[]|\OT1/cmr/m/n/10 Surveys us-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 374--375
-\OT1/cmr/m/n/10 ing Sur-vey
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 374--375
-\OT1/cmr/m/n/10 Ama-zons
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 374--375
-\OT1/cmr/m/n/10 Me-chan-i-cal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 375--376
-[]|\OT1/cmr/m/n/10 Trust in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 375--376
-\OT1/cmr/m/n/10 Au-to-mated
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 375--376
-\OT1/cmr/m/n/10 Cars and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 375--376
-\OT1/cmr/m/n/10 Med-i-cal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 375--376
-\OT1/cmr/m/n/10 Di-ag-no-sis
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
-[]|\OT1/cmr/m/n/10 The ge-o-graphic po-si-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
-\OT1/cmr/m/n/10 tion-ing and ed-u-ca-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 379--380
-[]|\OT1/cmr/m/n/10 Internet-
- []
-
-
-Underfull \hbox (badness 6125) in paragraph at lines 383--384
-\OT1/cmr/m/n/10 im-prov-ing will in-crease
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
-\OT1/cmr/m/n/10 of ex-ist-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 385--386
-[]|\OT1/cmr/m/n/10 Safety for
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 385--386
-\OT1/cmr/m/n/10 SDC soft-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 385--386
-\OT1/cmr/m/n/10 ware based
- []
-
-
-Underfull \hbox (badness 1776) in paragraph at lines 385--386
-\OT1/cmr/m/n/10 on 'fal-si-fi-ca-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
-\OT1/cmr/m/n/10 u-la-tor by
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
-[]|\OT1/cmr/m/n/10 The un-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
-\OT1/cmr/m/n/10 cer-tainty
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
-\OT1/cmr/m/n/10 of SDCs
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
-\OT1/cmr/m/n/10 in var-i-ous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
-[]|\OT1/cmr/m/n/10 Internet
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 397--398
-[]|\OT1/cmr/m/n/10 Trust in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 397--398
-\OT1/cmr/m/n/10 au-tonomous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 397--398
-\OT1/cmr/m/n/10 and semi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 397--398
-\OT1/cmr/m/n/10 autonomous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 397--398
-\OT1/cmr/m/n/10 auto pi-lot
- []
-
-
-Underfull \hbox (badness 2418) in paragraph at lines 401--402
-[]|\OT1/cmr/m/n/10 Data col-lec-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
-\OT1/cmr/m/n/10 ex-per-i-men-tal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 402--403
-[]|\OT1/cmr/m/n/10 Autopilot
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 402--403
-\OT1/cmr/m/n/10 per-son-al-iza-
- []
-
-
-Overfull \hbox (31.67651pt too wide) in alignment at lines 321--408
-[] [] [] [] []
- []
-
-[18]
-Underfull \vbox (badness 10000) detected at line 408
- []
-
-[19] (ShervinTrustSurvey.bbl [20]
+ [13]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ” in font cmr9!
- [21] [22]) [23] (ShervinTrustSurvey.aux) ) 
+ [14]) [15] (ShervinTrustSurvey.aux) ) 
 Here is how much of TeX's memory you used:
- 4703 strings out of 493334
- 59513 string characters out of 3139246
- 179549 words of memory out of 3000000
- 8096 multiletter control sequences out of 15000+200000
- 8630 words of font info for 33 fonts, out of 3000000 for 9000
+ 5201 strings out of 493334
+ 66824 string characters out of 3139246
+ 175271 words of memory out of 3000000
+ 8575 multiletter control sequences out of 15000+200000
+ 11433 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,35p,2144b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl
-10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmtt9.pfb>
-Output written on ShervinTrustSurvey.pdf (23 pages, 475552 bytes).
+ 41i,9n,35p,2145b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmtt9.pfb>
+Output written on ShervinTrustSurvey.pdf (15 pages, 467589 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
