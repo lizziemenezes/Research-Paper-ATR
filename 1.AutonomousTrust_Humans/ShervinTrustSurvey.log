@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.9)  19 MAR 2017 21:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.9)  20 MAR 2017 21:43
 entering extended mode
 **./ShervinTrustSurvey.tex
 (ShervinTrustSurvey.tex
@@ -554,54 +554,92 @@ Missing character: There is no ¶ in font cmr10!
 <Figures/ECommerceTrust.png, id=48, 963.6pt x 542.025pt>
 File: Figures/ECommerceTrust.png Graphic file (type png)
  <use Figures/ECommerceTrust.png>
-Package pdftex.def Info: Figures/ECommerceTrust.png used on input line 289.
+Package pdftex.def Info: Figures/ECommerceTrust.png used on input line 288.
 (pdftex.def)             Requested size: 469.75502pt x 264.23819pt.
  [12 <./Figures/ECommerceTrust.png>]
-Underfull \hbox (badness 4454) in paragraph at lines 421--421
+Underfull \hbox (badness 4454) in paragraph at lines 322--322
 []|\OT1/cmr/m/n/9 Military, Haz-ardous en-vi-
  []
 
 
-Underfull \hbox (badness 2277) in paragraph at lines 450--451
+Underfull \hbox (badness 2277) in paragraph at lines 366--367
 []|\OT1/cmr/m/n/9 visually im-paired per-son and a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--466
+Underfull \hbox (badness 10000) in paragraph at lines 392--392
 []|\OT1/cmr/m/n/9 Semi-autonomous mu-tual
  []
 
 
-Overfull \hbox (22.58466pt too wide) in paragraph at lines 413--468
+Underfull \hbox (badness 6204) in paragraph at lines 402--402
+[]|\OT1/cmr/m/n/9 Human-Computer In-ter-ac-
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 405--406
+[]|\OT1/cmr/m/n/9 The per-cep-tion of ``Com-pe-tence'' of an au-
+ []
+
+
+Underfull \hbox (badness 7203) in paragraph at lines 411--412
+[]|\OT1/cmr/m/n/9 Simulated Semi-Automatic Pas-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+\OT1/cmr/m/n/9 As-sess-ment Sys-tem (MIT-PAS)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
+[]|\OT1/cmr/m/n/9 Trust & Mil-i-tary Au-
+ []
+
+
+Overfull \hbox (22.58466pt too wide) in paragraph at lines 314--434
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+Overfull \hbox (22.58466pt too wide) in paragraph at lines 439--450
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+Overfull \hbox (22.58466pt too wide) in paragraph at lines 455--466
  [] 
  []
 
 (ShervinTrustSurvey.bbl
-Underfull \vbox (badness 2865) has occurred while \output is active []
-
- [13]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ” in font cmr9!
- [14]) [15] (ShervinTrustSurvey.aux) ) 
+ [15] [16]) [17] (ShervinTrustSurvey.aux) ) 
 Here is how much of TeX's memory you used:
- 5201 strings out of 493334
- 66824 string characters out of 3139246
- 175271 words of memory out of 3000000
- 8575 multiletter control sequences out of 15000+200000
+ 5200 strings out of 493334
+ 66820 string characters out of 3139246
+ 182190 words of memory out of 3000000
+ 8574 multiletter control sequences out of 15000+200000
  11433 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,9n,35p,2145b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmtt9.pfb>
-Output written on ShervinTrustSurvey.pdf (15 pages, 467589 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl
+10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmtt9.pfb>
+Output written on ShervinTrustSurvey.pdf (17 pages, 471570 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
+ 103 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
